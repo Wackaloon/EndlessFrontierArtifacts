@@ -1,0 +1,372 @@
+[
+  {
+    "set_name": "Ancient High Priest's Garment",
+    "bonuses": [
+      {
+        "bonus_activated": "2",
+        "bonus": "Set Effect 1 (2/4) + Reduce the quest time : 105% + Increase additional medal : 20%"
+      },
+      {
+        "bonus_activated": "4",
+        "bonus": "Set Effect 2 (4/4) + Reduce the quest upgrade cost : 660% + Increase dungeon material : 40%"
+      }
+    ]
+  },
+  {
+    "set_name": "Ancient Battle Secret Book ",
+    "bonuses": [
+      {
+        "bonus_activated": "2",
+        "bonus": "Set Effect 1 (2/4) + Decrease the quest upgrade cost : 660% + Increase dungeon material : 20%"
+      },
+      {
+        "bonus_activated": "4",
+        "bonus": "Set Effect 2 (4/4) + Increase the quest gold acquisition : 3725% + Increase additional medal : 40%"
+      }
+    ]
+  },
+  {
+    "set_name": "Ancient Outland Beast's Arms",
+    "bonuses": [
+      {
+        "bonus_activated": "2",
+        "bonus": "Set Effect 1 (2/4) + Reduce the unit upgrade cost : 1435% + Increase additional medal : 30%"
+      },
+      {
+        "bonus_activated": "4",
+        "bonus": "Set Effect 2 (4/4) + Reduce the quest time : 245% + Increase the basic double speed : 25%"
+      }
+    ]
+  },
+  {
+    "set_name": "Bone Wyvern's Arms",
+    "bonuses": [
+      {
+        "bonus_activated": "3",
+        "bonus": "Set Effect 1 (3/3) + Increase the attack power of Undead : 988% + Reduce the quest upgrade cost : 660% + Increase additional medal : 30%"
+      }
+    ]
+  },
+  {
+    "set_name": "Bronze Arms",
+    "bonuses": [
+      {
+        "bonus_activated": "3",
+        "bonus": "Set Effect 1 (3/3) + Increase attack power of all units : 17% + Increase health of all units : 69% + Increase critical strike rate of all units : 1% "
+      }
+    ]
+  },
+  {
+    "set_name": "Dark Knight's Arms",
+    "bonuses": [
+      {
+        "bonus_activated": "2",
+        "bonus": "Set Effect 1 (2/6) + Increase the attack power of Undead and Orc : 578% + Increase the attack speed of Undead and Orc : 10%"
+      },
+      {
+        "bonus_activated": "4",
+        "bonus": "Set Effect 2 (4/6) + Increase additional medal : 30% + Increase the critical damage of Undead and Orc : 578%"
+      },
+      {
+        "bonus_activated": "6",
+        "bonus": "Set Effect 3 (6/6) + Increase the moving speed of Undead and Orc : 20% + Increase the basic double speed : 20%"
+      }
+    ]
+  },
+  {
+    "set_name": "Descend of Supernova",
+    "bonuses": [
+      {
+        "bonus_activated": "2",
+        "bonus": "Set Effect 1 (2/6) + Increase the attack power of Human : 2541% + Increase dungeon material : 30%"
+      },
+      {
+        "bonus_activated": "4",
+        "bonus": "Set Effect 2 (4/6) + Increase the basic double speed : 25% + Increase the attack speed of Human : 15%"
+      },
+      {
+        "bonus_activated": "6",
+        "bonus": "Set Effect 3 (6/6) + Increase the moving speed of Human : 24% + Increase additional medal : 100%"
+      }
+    ]
+  },
+  {
+    "set_name": "Frost Knight's Arms",
+    "bonuses": [
+      {
+        "bonus_activated": "2",
+        "bonus": "Set Effect 1 (2/6) + Increase the attack power of Orc : 2541% + Increase dungeon material : 30%"
+      },
+      {
+        "bonus_activated": "4",
+        "bonus": "Set Effect 2 (4/6) + Increase the basic double speed : 25% + Increase the attack speed of Orc : 15%"
+      },
+      {
+        "bonus_activated": "6",
+        "bonus": "Set Effect 3 (6/6) + Increase the moving speed of Orc : 24% + Increase additional medal : 100%"
+      }
+    ]
+  },
+  {
+    "set_name": "Ghost of Snow Mountain's Battle Uniform",
+    "bonuses": [
+      {
+        "bonus_activated": "3",
+        "bonus": "Set Effect 1 (3/3) + Increase the attack power of Orc : 988% + Increase the quest gold acquisition : 3725% + Increase the dungeon material : 30%"
+      }
+    ]
+  },
+  {
+    "set_name": "Great General's Arms",
+    "bonuses": [
+      {
+        "bonus_activated": "3",
+        "bonus": "Set Effect 1 (3/3) + Increase attack speed of all units : 5% + Increase critical damage of all units : 496% + Increase additional medal : 30%"
+      }
+    ]
+  },
+  {
+    "set_name": "Immortal Ancient Weapon",
+    "bonuses": [
+      {
+        "bonus_activated": "3",
+        "bonus": "Set Effect 1 (3/3) + Increase the quest gold acquisition : 21805% + Increase the critical damage of melee unit : 1435% + Increase additional medal : 40%"
+      }
+    ]
+  },
+  {
+    "set_name": "King of Battle Beast's Arms",
+    "bonuses": [
+      {
+        "bonus_activated": "2",
+        "bonus": "Set Effect 1 (2/4) + Increase critical damage of all units : 882% + Increase the basic double speed : 15%"
+      },
+      {
+        "bonus_activated": "4",
+        "bonus": "Set Effect 2 (4/4) + Reduce the quest time : 245% + Increase the additional medal : 70%"
+      }
+    ]
+  },
+  {
+    "set_name": "Knight's Arms",
+    "bonuses": [
+      {
+        "bonus_activated": "2",
+        "bonus": "Set Effect 1 (2/2) + Reduce the quest upgrade cost : 73% + Increase dungeon material : 8%"
+      }
+    ]
+  },
+  {
+    "set_name": "Legacy of Abundance",
+    "bonuses": [
+      {
+        "bonus_activated": "2",
+        "bonus": "Set Effect 1 (2/4) + Reduce the quest time : 245% + Increase dungeon material : 30%"
+      },
+      {
+        "bonus_activated": "4",
+        "bonus": "Set Effect 2 (4/4) + Increase the quest gold acquisition : 21805% + Increase the basic double speed : 25%"
+      }
+    ]
+  },
+  {
+    "set_name": "Lord of Darkness's Arms",
+    "bonuses": [
+      {
+        "bonus_activated": "2",
+        "bonus": "Set Effect 1 (2/6) + Increase the attack power of Undead : 2541% + Increase dungeon material : 30%"
+      },
+      {
+        "bonus_activated": "4",
+        "bonus": "Set Effect 2 (4/6) + Increase the basic double speed : 25% + Increase the attack speed of Undead : 15%"
+      }
+    ]
+  },
+  {
+    "set_name": "Mage's Garment",
+    "bonuses": [
+      {
+        "bonus_activated": "3",
+        "bonus": "Set Effect 1 (3/3) + Increase attack power of all units : 48% + Reduce the quest open gold : 72% + Increase the basic double speed : 3%"
+      }
+    ]
+  },
+  {
+    "set_name": "Magic Pupil's Garment",
+    "bonuses": [
+      {
+        "bonus_activated": "3",
+        "bonus": "Set Effect 1 (3/3) + Increase attack power of all units : 17% + Increase the quest gold acquisition : 100% + Increase additional medal : 3% "
+      }
+    ]
+  },
+  {
+    "set_name": "Magician's Garment",
+    "bonuses": [
+      {
+        "bonus_activated": "3",
+        "bonus": "Set Effect 1 (3/3) + Increase attack power of all units : 112% + Increase critical damage of all units : 112% + Increase the moving speed of ranged units : 5%"
+      }
+    ]
+  },
+  {
+    "set_name": "Master's Lion Hide",
+    "bonuses": [
+      {
+        "bonus_activated": "2",
+        "bonus": "Set Effect 1 (2/2) + Increase the attack power of all units : 310% + Increase the basic double speed : 10%"
+      }
+    ]
+  },
+  {
+    "set_name": "Mercenary's Weapon",
+    "bonuses": [
+      {
+        "bonus_activated": "3",
+        "bonus": "Set Effect 1 (3/3) + Increase critical damage of all units : 17% + Increase critical strike rate of all units : 1% + Increase dungeon material : 3%"
+      }
+    ]
+  },
+  {
+    "set_name": "Necromancer's Spirit",
+    "bonuses": [
+      {
+        "bonus_activated": "2",
+        "bonus": "Set Effect 1 (2/4) + Reduce the unit upgrade cost : 578% + Increase dungeon material : 20%"
+      },
+      {
+        "bonus_activated": "4",
+        "bonus": "Set Effect 2 (4/4) + Increase the quest gold acquisition : 3725% + Increase additional medal : 40%"
+      }
+    ]
+  },
+  {
+    "set_name": "Oath of Heaven",
+    "bonuses": [
+      {
+        "bonus_activated": "2",
+        "bonus": "Set Effect 1 (2/2) + Increase attack power of all units : 630 % + Increase additional medal : 20%"
+      }
+    ]
+  },
+  {
+    "set_name": "Plate Arms",
+    "bonuses": [
+      {
+        "bonus_activated": "3",
+        "bonus": "Set Effect 1 (3/3) + Increase attack power of all units : 48% + Increase critical damage of all units : 48% + Increase dungeon material : 5%"
+      }
+    ]
+  },
+  {
+    "set_name": "Reinforced Brown Bear Hide",
+    "bonuses": [
+      {
+        "bonus_activated": "2",
+        "bonus": "Set Effect 1 (2/2) + Increase attack speed of all units : 3% + Increase dungeon material : 10%"
+      }
+    ]
+  },
+  {
+    "set_name": "Royal Guard's Weapon",
+    "bonuses": [
+      {
+        "bonus_activated": "2",
+        "bonus": "Set Effect 1 (2/2) + Increase the quest gold acquisition : 1440% + Increase additional medal : 10%"
+      }
+    ]
+  },
+  {
+    "set_name": "Sea Dragon's Arms",
+    "bonuses": [
+      {
+        "bonus_activated": "2",
+        "bonus": "Set Effect 1 (2/6) + Increase the attack power of Human and Elf : 578% + Increase the attack speed of Human and Elf : 10%"
+      },
+      {
+        "bonus_activated": "4",
+        "bonus": "Set Effect 2 (4/6) + Increase additional medal : 30% + Increase the critical damage of Human and Elf : 578%"
+      },
+      {
+        "bonus_activated": "6",
+        "bonus": "Set Effect 3 (6/6) + Increase the moving speed of Human and Elf : 20% + Increase the basic double speed : 20%"
+      }
+    ]
+  },
+  {
+    "set_name": "Sheepskin",
+    "bonuses": [
+      {
+        "bonus_activated": "2",
+        "bonus": "Set Effect 1 (2/2) + Reduce the quest upgrade cost : 35% + Increase additional medal : 5%"
+      }
+    ]
+  },
+  {
+    "set_name": "Shrine of Justice",
+    "bonuses": [
+      {
+        "bonus_activated": "2",
+        "bonus": "Set Effect 1 (2/6) + Increase the attack power of Elf : 2541% + Increase dungeon material : 30%"
+      },
+      {
+        "bonus_activated": "4",
+        "bonus": "Set Effect 2 (4/6) + Increase the basic double speed : 25% + Increase the attack speed of Elf : 15%"
+      }
+    ]
+  },
+  {
+    "set_name": "Sword of Spirit of Dark and Light",
+    "bonuses": [
+      {
+        "bonus_activated": "2",
+        "bonus": "Set Effect 1 (2/2) + Increase the quest gold acquisition : 3725% + Increase the attack speed of all units : 6%"
+      }
+    ]
+  },
+  {
+    "set_name": "Temple Battlemage's Weapon",
+    "bonuses": [
+      {
+        "bonus_activated": "3",
+        "bonus": "Set Effect 1 (3/3) + Increase attack power of all units : 496% + Increase moving speed of all units : 3% + Increase dungeon material : 30%"
+      }
+    ]
+  },
+  {
+    "set_name": "The Ruler of Darkness",
+    "bonuses": [
+      {
+        "bonus_activated": "3",
+        "bonus": "Set Effect 1 (3/3) + Increase the quest gold acquisition : 21805% + Increase the critical damage of ranged unit : 1435% + Increase additional medal : 40%"
+      }
+    ]
+  },
+  {
+    "set_name": "Underground Guild's Assassin ",
+    "bonuses": [
+      {
+        "bonus_activated": "3",
+        "bonus": "Set Effect 1 (3/3) + Increase the attack power of Human : 988% + Decrease the unit upgrade cost : 578% + Increase additional medal : 30%"
+      }
+    ]
+  },
+  {
+    "set_name": "Warlock's Garment",
+    "bonuses": [
+      {
+        "bonus_activated": "3",
+        "bonus": "Set Effect 1 (3/3) + Increase attack power of all units : 236% + Increase critical damage of all units : 236% + Increase the basic double speed : 5%"
+      }
+    ]
+  },
+  {
+    "set_name": "Wolf Hide",
+    "bonuses": [
+      {
+        "bonus_activated": "3",
+        "bonus": "Set Effect 1 (3/3) + Increase quest gold acquisition : 880% + Reduce the unit upgrade cost : 116% + Increase the moving speed of melee unit : 5%"
+      }
+    ]
+  }
+]
