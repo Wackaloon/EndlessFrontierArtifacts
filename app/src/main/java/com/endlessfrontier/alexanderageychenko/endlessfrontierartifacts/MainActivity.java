@@ -3,6 +3,7 @@ package com.endlessfrontier.alexanderageychenko.endlessfrontierartifacts;
 import android.support.v7.app.AppCompatActivity;
 import android.os.Bundle;
 
+import com.endlessfrontier.alexanderageychenko.endlessfrontierartifacts.data.Depository;
 import com.endlessfrontier.alexanderageychenko.endlessfrontierartifacts.model.FragmentCroupier;
 import com.endlessfrontier.alexanderageychenko.endlessfrontierartifacts.views.CollectionFragment;
 
@@ -14,6 +15,7 @@ public class MainActivity extends AppCompatActivity {
     protected void onCreate(Bundle savedInstanceState) {
         super.onCreate(savedInstanceState);
         setContentView(R.layout.activity_main);
+        Depository.init(this);
         initFragment();
 
     }

@@ -37,11 +37,7 @@ public class CollectionFragment extends ExFragment {
         linearLayoutManager = new LinearLayoutManager(getActivity(), LinearLayoutManager.VERTICAL, false);
         recyclerView.setLayoutManager(new LinearLayoutManager(getActivity(), LinearLayoutManager.VERTICAL, false));
         recyclerView.setAdapter(artifactsAdapter);
-        try {
-            artifactsAdapter.setData(getActivity(), Depository.getArtifactsList(getActivity()));
-        } catch (IOException e) {
-            e.printStackTrace();
-        }
+        artifactsAdapter.setData(getActivity(), Depository.getInstance().getArtifactsList());
         artifactsAdapter.notifyDataSetChanged();
         super.onViewCreated(view, savedInstanceState);
     }

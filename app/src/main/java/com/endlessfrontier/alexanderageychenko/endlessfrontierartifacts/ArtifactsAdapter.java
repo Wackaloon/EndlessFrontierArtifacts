@@ -8,6 +8,8 @@ import android.view.ViewGroup;
 import android.widget.ImageView;
 import android.widget.TextView;
 
+import com.endlessfrontier.alexanderageychenko.endlessfrontierartifacts.model.Artifact;
+
 import java.util.ArrayList;
 import java.util.Collections;
 import java.util.Comparator;
