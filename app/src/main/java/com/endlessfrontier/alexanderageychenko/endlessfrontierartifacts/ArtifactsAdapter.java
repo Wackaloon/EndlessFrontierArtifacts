@@ -5,7 +5,9 @@ import android.support.v7.widget.RecyclerView;
 import android.view.LayoutInflater;
 import android.view.View;
 import android.view.ViewGroup;
+import android.widget.ImageView;
 import android.widget.TextView;
+
 import java.util.ArrayList;
 import java.util.Collections;
 import java.util.Comparator;
@@ -61,7 +63,32 @@ public class ArtifactsAdapter extends RecyclerView.Adapter<ArtifactsAdapter.View
         } catch (Exception e) {
             e.printStackTrace();
         }
+        Integer stars = Integer.parseInt(item.stars.substring(0, 1));
+        if (stars != null) {
+            switch (stars) {
+                case 6: {
+                    holder.image.setBackgroundColor(context.getResources().getColor(R.color.main_orange));
+                    break;
+                }
+                case 5: {
+                    holder.image.setBackgroundColor(context.getResources().getColor(R.color.main_red));
+                    break;
+                }
+                case 4: {
+                    holder.image.setBackgroundColor(context.getResources().getColor(R.color.main_blue));
+                    break;
+                }
+                case 3: {
+                    holder.image.setBackgroundColor(context.getResources().getColor(R.color.main_green));
+                    break;
+                }
+            }
+        } else {
+            holder.image.setBackgroundColor(context.getResources().getColor(R.color.main_grey));
+        }
     }
+
+
 
     @Override
     public int getItemCount() {
@@ -69,24 +96,26 @@ public class ArtifactsAdapter extends RecyclerView.Adapter<ArtifactsAdapter.View
     }
 
 
-    public class ViewHolder extends RecyclerView.ViewHolder {
-        TextView name;
-        TextView stars;
-        TextView source;
-        TextView param1;
-        TextView param2;
-        TextView material1;
-        TextView material2;
+public class ViewHolder extends RecyclerView.ViewHolder {
+    TextView name;
+    TextView stars;
+    TextView source;
+    TextView param1;
+    TextView param2;
+    TextView material1;
+    TextView material2;
+    ImageView image;
 
-        public ViewHolder(View itemView) {
-            super(itemView);
-            name = (TextView) itemView.findViewById(R.id.name);
-            stars = (TextView) itemView.findViewById(R.id.stars);
-            source = (TextView) itemView.findViewById(R.id.source);
-            param1 = (TextView) itemView.findViewById(R.id.param1);
-            param2 = (TextView) itemView.findViewById(R.id.param2);
-            material1 = (TextView) itemView.findViewById(R.id.material1);
-            material2 = (TextView) itemView.findViewById(R.id.material12);
-        }
+    public ViewHolder(View itemView) {
+        super(itemView);
+        name = (TextView) itemView.findViewById(R.id.name);
+        stars = (TextView) itemView.findViewById(R.id.stars);
+        source = (TextView) itemView.findViewById(R.id.source);
+        param1 = (TextView) itemView.findViewById(R.id.param1);
+        param2 = (TextView) itemView.findViewById(R.id.param2);
+        material1 = (TextView) itemView.findViewById(R.id.material1);
+        material2 = (TextView) itemView.findViewById(R.id.material12);
+        image = (ImageView) itemView.findViewById(R.id.image);
     }
+}
 }

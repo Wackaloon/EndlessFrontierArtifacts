@@ -1,1 +1,2187 @@
-[{"attributes": [{"name": "Increase the attack power of Elf",    "value": "24",    "value_increment": "2.43"    },    {    "name": "Decrease the quest open gold",    "value": "24",    "value_increment": "2.43"    }  ], "stars":"6 Stars",  "is_set": true,  "set_name": "Shrine of Justice",  "item_name": "Arrow of Shrine of Justice"  ,  "source": "HonorChest",  "materials": [    "Plant",    "Spear"  ]},{"attributes": [{"name": "Increase the health of a friendly tower",    "value": "12.4",    "value_increment": "0.39"    },    {    "name": "Decrease the health of a dungeon general unit",    "value": "0.2025",    "value_increment": "0.0025"    }  ], "stars":"6 Stars",  "is_set": true,  "set_name": "",  "item_name": "Mark of Shrine of Justice"  ,  "source": "HonorChest",  "materials": [    "Hammer",    "Spear"  ]},{"attributes": [{"name": "Decrease the battle engaging time for Elf",    "value": "0.2025",    "value_increment": "0.0025"    },    {    "name": "Reduce the quest time",    "value": "4",    "value_increment": "0.15"    }  ], "stars":"6 Stars",  "is_set": true,  "set_name": "",  "item_name": "Shoes of Shrine of Justice"  ,  "source": "HonorChest",  "materials": [    "Crown",    "Plant"  ]},{"attributes": [{"name": "Increase the health of Elf",    "value": "96",    "value_increment": "9.72"    },    {    "name": "Increase the defense power of Elf",    "value": "36",    "value_increment": "3.645"    }  ], "stars":"6 Stars",  "is_set": true,  "set_name": "",  "item_name": "Armor of Shrine of Justice"  ,  "source": "HonorChest",  "materials": [    "Horn",    "Plant"  ]},{"attributes": [{"name": "Increase the defense power of Elf",    "value": "36",    "value_increment": "3.645"    },    {    "name": "Decrease the quest upgrade cost",    "value": "16",    "value_increment": "1.25"    }  ], "stars":"6 Stars",  "is_set": true,  "set_name": "",  "item_name": "Hat of Shrine of Justice"  ,  "source": "HonorChest",  "materials": [    "Hammer",    "Plant"  ]},{"attributes": [{"name": "Increase the attack power of Elf",    "value": "24",    "value_increment": "2.43"    },    {    "name": "Increase the quest gold acquisition",    "value": "200",    "value_increment": "21.15"    }  ], "stars":"6 Stars",  "is_set": true,  "set_name": "",  "item_name": "Bow of Shrine of Justice"  ,  "source": "HonorChest",  "materials": [    "Horn",    "Hammer"  ]},{"attributes": [{"name": "Increase the attack power of Human",    "value": "24",    "value_increment": "2.43"    },    {    "name": "Decrease the quest open gold",    "value": "24",    "value_increment": "2.43"    }  ], "stars":"6 Stars",  "is_set": true,  "set_name": "Descend ofSupernova",  "item_name": "Supernova's Bracelet"  ,  "source": "HonorChest",  "materials": [    "Crown",    "Spear"  ]},{"attributes": [{"name": "Increase the health of a friendly tower",    "value": "12.4",    "value_increment": "0.39"    },    {    "name": "Decrease the health of a dungeon general unit",    "value": "0.2025",    "value_increment": "0.0025"    }  ], "stars":"6 Stars",  "is_set": true,  "set_name": "",  "item_name": "Supernova's Ring"  ,  "source": "HonorChest",  "materials": [    "Crown",    "Horn"  ]},{"attributes": [{"name": "Decrease the battle engaging time for Human",    "value": "0.2025",    "value_increment": "0.0025"    },    {    "name": "Reduce the quest time",    "value": "4",    "value_increment": "0.15"    }  ], "stars":"6 Stars",  "is_set": true,  "set_name": "",  "item_name": "Supernova's Shoes"  ,  "source": "HonorChest",  "materials": [    "Horn",    "Spear"  ]},{"attributes": [{"name": "Increase the health of Human",    "value": "96",    "value_increment": "9.72"    },    {    "name": "Increase the defense power of Human",    "value": "36",    "value_increment": "3.645"    }  ], "stars":"6 Stars",  "is_set": true,  "set_name": "",  "item_name": "Supernova's Robe"  ,  "source": "HonorChest",  "materials": [    "Crown",    "Hammer"  ]},{"attributes": [{"name": "Increase the defense power of Human",    "value": "36",    "value_increment": "3.645"    },    {    "name": "Decrease the quest upgrade cost",    "value": "16",    "value_increment": "1.25"    }  ], "stars":"6 Stars",  "is_set": true,  "set_name": "",  "item_name": "Supernova's Hat"  ,  "source": "HonorChest",  "materials": [    "Plant",    "Spear"  ]},{"attributes": [{"name": "Increase the attack power of Human",    "value": "24",    "value_increment": "2.43"    },    {    "name": "Increase the quest gold acquisition",    "value": "200",    "value_increment": "21.15"    }  ], "stars":"6 Stars",  "is_set": true,  "set_name": "",  "item_name": "Supernova's Staff"  ,  "source": "HonorChest",  "materials": [    "Hammer",    "Spear"  ]},{"attributes": [{"name": "Increase the attack power of Undead",    "value": "24",    "value_increment": "2.43"    },    {    "name": "Decrease the quest open gold",    "value": "24",    "value_increment": "2.43"    }  ], "stars":"6 Stars",  "is_set": true,  "set_name": "Lord ofDarkness's Arms",  "item_name": "Lord of Darkness's Necklace"  ,  "source": "HonorChest",  "materials": [    "Crown",    "Plant"  ]},{"attributes": [{"name": "Increase the health of a friendly tower",    "value": "12.4",    "value_increment": "0.39"    },    {    "name": "Decrease the health of a dungeon general unit",    "value": "0.2025",    "value_increment": "0.0025"    }  ], "stars":"6 Stars",  "is_set": true,  "set_name": "",  "item_name": "Lord of Darkness's Cloak"  ,  "source": "HonorChest",  "materials": [    "Horn",    "Plant"  ]},{"attributes": [{"name": "Decrease the battle engaging time for Undead",    "value": "0.2025",    "value_increment": "0.0025"    },    {    "name": "Reduce the quest time",    "value": "4",    "value_increment": "0.15"    }  ], "stars":"6 Stars",  "is_set": true,  "set_name": "",  "item_name": "Lord of Darkness's Shoes"  ,  "source": "HonorChest",  "materials": [    "Hammer",    "Plant"  ]},{"attributes": [{"name": "Increase the health of Undead",    "value": "96",    "value_increment": "9.72"    },    {    "name": "Increase the defense power of Undead",    "value": "36",    "value_increment": "3.645"    }  ], "stars":"6 Stars",  "is_set": true,  "set_name": "",  "item_name": "Lord of Darkness's Armor"  ,  "source": "HonorChest",  "materials": [    "Horn",    "Hammer"  ]},{"attributes": [{"name": "Increase the defense power of Undead",    "value": "36",    "value_increment": "3.645"    },    {    "name": "Decrease the quest upgrade cost",    "value": "16",    "value_increment": "1.25"    }  ], "stars":"6 Stars",  "is_set": true,  "set_name": "",  "item_name": "Lord of Darkness's Helmet"  ,  "source": "HonorChest",  "materials": [    "Crown",    "Spear"  ]},{"attributes": [{"name": "Increase the attack power of Undead",    "value": "24",    "value_increment": "2.43"    },    {    "name": "Increase the quest gold acquisition",    "value": "200",    "value_increment": "21.15"    }  ], "stars":"6 Stars",  "is_set": true,  "set_name": "",  "item_name": "Lord of Darkness's Mace"  ,  "source": "HonorChest",  "materials": [    "Crown",    "Horn"  ]},{"attributes": [{"name": "Increase the attack power of Orc",    "value": "24",    "value_increment": "2.43"    },    {    "name": "Decrease the quest open gold",    "value": "24",    "value_increment": "2.43"    }  ], "stars":"6 Stars",  "is_set": true,  "set_name": "Frost Knight'sArms",  "item_name": "Frost Knight's Shield"  ,  "source": "HonorChest",  "materials": [    "Horn",    "Spear"  ]},{"attributes": [{"name": "Increase the health of a friendly tower",    "value": "12.4",    "value_increment": "0.39"    },    {    "name": "Decrease the health of a dungeon general unit",    "value": "0.2025",    "value_increment": "0.0025"    }  ], "stars":"6 Stars",  "is_set": true,  "set_name": "",  "item_name": "Frost Knight's Ring"  ,  "source": "HonorChest",  "materials": [    "Crown",    "Hammer"  ]},{"attributes": [{"name": "Decrease the battle engaging time for Orc",    "value": "0.2025",    "value_increment": "0.0025"    },    {    "name": "Reduce the quest time",    "value": "4",    "value_increment": "0.15"    }  ], "stars":"6 Stars",  "is_set": true,  "set_name": "",  "item_name": "Frost Knight's Boots"  ,  "source": "HonorChest",  "materials": [    "Plant",    "Spear"  ]},{"attributes": [{"name": "Increase the health of Orc",    "value": "96",    "value_increment": "9.72"    },    {    "name": "Increase the defense power of Orc",    "value": "36",    "value_increment": "3.645"    }  ], "stars":"6 Stars",  "is_set": true,  "set_name": "",  "item_name": "Frost Knight's Armor"  ,  "source": "HonorChest",  "materials": [    "Hammer",    "Spear"  ]},{"attributes": [{"name": "Increase the defense power of Orc",    "value": "36",    "value_increment": "3.645"    },    {    "name": "Decrease the quest upgrade cost",    "value": "16",    "value_increment": "1.25"    }  ], "stars":"6 Stars",  "is_set": true,  "set_name": "",  "item_name": "Frost Knight's Helmet"  ,  "source": "HonorChest",  "materials": [    "Crown",    "Plant"  ]},{"attributes": [{"name": "Increase the attack power of Orc",    "value": "24",    "value_increment": "2.43"    },    {    "name": "Increase the quest gold acquisition",    "value": "200",    "value_increment": "21.15"    }  ], "stars":"6 Stars",  "is_set": true,  "set_name": "",  "item_name": "Frost Knight's Sword"  ,  "source": "HonorChest",  "materials": [    "Horn",    "Plant"  ]},{"attributes": [{"name": "Decrease the battle engaging time for Orc and Undead",    "value": "0.2025",    "value_increment": "0.0025"    },    {    "name": "Decrease the quest upgrade cost",    "value": "16",    "value_increment": "1.25"    }  ], "stars":"6 Stars",  "is_set": true,  "set_name": "King of BattleBeast's Arms",  "item_name": "King of Beast's Boots"  ,  "source": "HonorChest",  "materials": [    "Hammer",    "Plant"  ]},{"attributes": [{"name": "Increase the health of Orc and Undead",    "value": "96",    "value_increment": "9.72"    },    {    "name": "Decrease the quest open gold",    "value": "24",    "value_increment": "2.43"    }  ], "stars":"6 Stars",  "is_set": true,  "set_name": "",  "item_name": "King of Beast's Armor"  ,  "source": "HonorChest",  "materials": [    "Horn",    "Hammer"  ]},{"attributes": [{"name": "Increase the defense power of Orc and Undead",    "value": "36",    "value_increment": "3.645"    },    {    "name": "Decrease the unit upgrade cost",    "value": "16",    "value_increment": "1.25"    }  ], "stars":"6 Stars",  "is_set": true,  "set_name": "",  "item_name": "King of Beast's Helmet"  ,  "source": "HonorChest",  "materials": [    "Crown",    "Spear"  ]},{"attributes": [{"name": "Increase the attack power of Orc and Undead",    "value": "24",    "value_increment": "2.43"    },    {    "name": "Increase the quest gold acquisition",    "value": "200",    "value_increment": "21.15"    }  ], "stars":"6 Stars",  "is_set": true,  "set_name": "",  "item_name": "King of Beast's Sword"  ,  "source": "HonorChest",  "materials": [    "Crown",    "Horn"  ]},{"attributes": [{"name": "Decrease the battle engaging time for air unit",    "value": "0.2025",    "value_increment": "0.0025"    },    {    "name": "Decrease the quest upgrade cost",    "value": "16",    "value_increment": "1.25"    }  ], "stars":"6 Stars",  "is_set": true,  "set_name": "Ancient OutlandBeast's Arms",  "item_name": "Ancient Outland Beast's Boots"  ,  "source": "HonorChest",  "materials": [    "Horn",    "Spear"  ]},{"attributes": [{"name": "Increase the health of air unit",    "value": "76.8",    "value_increment": ""    },    {    "name": "Decrease the quest open gold",    "value": "24",    "value_increment": "2.43"    }  ], "stars":"6 Stars",  "is_set": true,  "set_name": "",  "item_name": "Ancient Outland Beast's Armor"  ,  "source": "HonorChest",  "materials": [    "Crown",    "Hammer"  ]},{"attributes": [{"name": "Increase the defense power of air unit",    "value": "28.8",    "value_increment": ""    },    {    "name": "Increase the quest gold acquisition",    "value": "200",    "value_increment": "21.15"    }  ], "stars":"6 Stars",  "is_set": true,  "set_name": "",  "item_name": "Ancient Outland Beast's Helmet"  ,  "source": "HonorChest",  "materials": [    "Plant",    "Spear"  ]},{"attributes": [{"name": "Increase the attack power of air unit",    "value": "19.2",    "value_increment": ""    },    {    "name": "Increase the critical damage of air unit",    "value": "19.2",    "value_increment": ""    }  ], "stars":"6 Stars",  "is_set": true,  "set_name": "",  "item_name": "Ancient Outland Beast's Blunt Force"  ,  "source": "HonorChest",  "materials": [    "Hammer",    "Spear"  ]},{"attributes": [{"name": "Decrease the battle engaging time for Human and Elf",    "value": "0.2025",    "value_increment": "0.0025"    },    {    "name": "Decrease the quest upgrade cost",    "value": "16",    "value_increment": "1.25"    }  ], "stars":"6 Stars",  "is_set": true,  "set_name": "Legacy ofAbundance",  "item_name": "Golden Cloak of Abundance"  ,  "source": "HonorChest",  "materials": [    "Crown",    "Plant"  ]},{"attributes": [{"name": "Increase the health of Human and Elf",    "value": "96",    "value_increment": "9.72"    },    {    "name": "Decrease the quest open gold",    "value": "24",    "value_increment": "2.43"    }  ], "stars":"6 Stars",  "is_set": true,  "set_name": "",  "item_name": "Golden Ring of Abundance"  ,  "source": "HonorChest",  "materials": [    "Horn",    "Plant"  ]},{"attributes": [{"name": "Increase the defense power of Human and Elf",    "value": "36",    "value_increment": "3.645"    },    {    "name": "Decrease the unit upgrade cost",    "value": "16",    "value_increment": "1.25"    }  ], "stars":"6 Stars",  "is_set": true,  "set_name": "",  "item_name": "Golden Boots of Abundance"  ,  "source": "HonorChest",  "materials": [    "Hammer",    "Plant"  ]},{"attributes": [{"name": "Increase the attack power of Human and Elf",    "value": "24",    "value_increment": "2.43"    },    {    "name": "Increase the quest gold acquisition",    "value": "200",    "value_increment": "21.15"    }  ], "stars":"6 Stars",  "is_set": true,  "set_name": "",  "item_name": "Laurel Bow of Abundance"  ,  "source": "HonorChest",  "materials": [    "Horn",    "Hammer"  ]},{"attributes": [{"name": "Decrease the health of a dungeon general unit",    "value": "0.2025",    "value_increment": "0.0025"    },    {    "name": "Reduce the quest time",    "value": "4",    "value_increment": "0.15"    }  ], "stars":"6 Stars",  "is_set": true,  "set_name": "Immortal AncientWeapon",  "item_name": "Immortal Fire Wing"  ,  "source": "HonorChest",  "materials": [    "Crown",    "Spear"  ]},{"attributes": [{"name": "Increase the attack power of melee unit",    "value": "16",    "value_increment": "1.25"    },    {    "name": "Increase the health of melee unit",    "value": "64",    "value_increment": ""    }  ], "stars":"6 Stars",  "is_set": true,  "set_name": "",  "item_name": "Lion's Immortal Armor"  ,  "source": "HonorChest",  "materials": [    "Crown",    "Horn"  ]},{"attributes": [{"name": "Decrease the time for revival of all units",    "value": "0.2525",    "value_increment": ""    },    {    "name": "Decrease the unit upgrade cost",    "value": "16",    "value_increment": "1.25"    }  ], "stars":"6 Stars",  "is_set": true,  "set_name": "",  "item_name": "Fire Dragon's Immortal Sword"  ,  "source": "HonorChest",  "materials": [    "Horn",    "Spear"  ]},{"attributes": [{"name": "Increase the defense power of all units",    "value": "18.6",    "value_increment": ""    },    {    "name": "Decrease the quest upgrade cost",    "value": "16",    "value_increment": "1.25"    }  ], "stars":"6 Stars",  "is_set": true,  "set_name": "The Ruler ofDarkness",  "item_name": "Cloak of Darkness"  ,  "source": "HonorChest",  "materials": [    "Crown",    "Hammer"  ]},{"attributes": [{"name": "Increase the health of ranged units",    "value": "64",    "value_increment": ""    },    {    "name": "Increase the attack power of ranged units",    "value": "16",    "value_increment": "1.25"    }  ], "stars":"6 Stars",  "is_set": true,  "set_name": "",  "item_name": "Boots of Darkness"  ,  "source": "HonorChest",  "materials": [    "Plant",    "Spear"  ]},{"attributes": [{"name": "Increase the attack power of all units",    "value": "12.4",    "value_increment": "0.39"    },    {    "name": "Decrease the quest open gold",    "value": "24",    "value_increment": "2.43"    }  ], "stars":"6 Stars",  "is_set": true,  "set_name": "",  "item_name": "Horn Hood of Darkness"  ,  "source": "HonorChest",  "materials": [    "Hammer",    "Spear"  ]},{"attributes": [{"name": "Decrease the battle engaging time for Undead",    "value": "0.1525",    "value_increment": "0.0025"    },    {    "name": "Decrease the unit upgrade cost",    "value": "6.5",    "value_increment": "0.5"    }  ], "stars":"5 Stars",  "is_set": true,  "set_name": "Ancient BattleSecret Book ",  "item_name": "Secret Book 4"  ,  "source": "MatShop",  "materials": [    "Hammer",    "Plant"  ]},{"attributes": [{"name": "Increase the health of Undead",    "value": "34",    "value_increment": "3.24"    },    {    "name": "Decrease the quest open gold",    "value": "8.5",    "value_increment": "0.81"    }  ], "stars":"5 Stars",  "is_set": true,  "set_name": "",  "item_name": "Secret Book 3"  ,  "source": "MatShop",  "materials": [    "Horn",    "Hammer"  ]},{"attributes": [{"name": "Increase the defense power of Undead",    "value": "12.75",    "value_increment": "1.215"    },    {    "name": "Increase the quest gold acquisition",    "value": "55",    "value_increment": "4.7"    }  ], "stars":"5 Stars",  "is_set": true,  "set_name": "",  "item_name": "Secret Book 2"  ,  "source": "GuildShop",  "materials": [    "Crown",    "Spear"  ]},{"attributes": [{"name": "Increase the attack power of Undead",    "value": "8.5",    "value_increment": "0.81"    },    {    "name": "Increase the critical damage of Undead",    "value": "6",    "value_increment": "0.32"    }  ], "stars":"5 Stars",  "is_set": true,  "set_name": "",  "item_name": "Secret Book 1"  ,  "source": "MatShop",  "materials": [    "Crown",    "Horn"  ]},{"attributes": [{"name": "Decrease the time for Human revival",    "value": "0.2025",    "value_increment": "0.0025"    },    {    "name": "Reduce the quest time",    "value": "2",    "value_increment": "0.05"    }  ], "stars":"5 Stars",  "is_set": true,  "set_name": "UndergroundGuild's Assassin",  "item_name": "Assassin's Boots"  ,  "source": "GuildShop",  "materials": [    "Crown",    "Hammer"  ]},{"attributes": [{"name": "Increase the defense power of Human",    "value": "12.75",    "value_increment": "1.215"    },    {    "name": "Decrease the unit upgrade cost",    "value": "6.5",    "value_increment": "0.5"    }  ], "stars":"5 Stars",  "is_set": true,  "set_name": "",  "item_name": "Assassin's Armor"  ,  "source": "MatShop",  "materials": [    "Plant",    "Spear"  ]},{"attributes": [{"name": "Increase the health of Human",    "value": "34",    "value_increment": "3.24"    },    {    "name": "Increase the quest gold acquisition",    "value": "55",    "value_increment": "4.7"    }  ], "stars":"5 Stars",  "is_set": true,  "set_name": "",  "item_name": "Assassin's Helm"  ,  "source": "MatShop",  "materials": [    "Hammer",    "Spear"  ]},{"attributes": [{"name": "Increase the health of Human and Elf",    "value": "34",    "value_increment": "3.24"    },    {    "name": "Reduce the quest time",    "value": "2",    "value_increment": "0.05"    }  ], "stars":"5 Stars",  "is_set": true,  "set_name": "Sea Dragon'sArms",  "item_name": "Sea Dragon's Pure Bracelet"  ,  "source": "HonorChest",  "materials": [    "Crown",    "Spear"  ]},{"attributes": [{"name": "Increase the attack power of Human and Elf",    "value": "8.5",    "value_increment": "0.81"    },    {    "name": "Decrease the quest upgrade cost",    "value": "6.5",    "value_increment": "0.5"    }  ], "stars":"5 Stars",  "is_set": true,  "set_name": "",  "item_name": "Sea Dragon's Pure Necklace"  ,  "source": "HonorChest",  "materials": [    "Crown",    "Horn"  ]},{"attributes": [{"name": "Decrease the time for Human and Elf revival",    "value": "0.2025",    "value_increment": "0.0025"    },    {    "name": "Decrease the unit upgrade cost",    "value": "6.5",    "value_increment": "0.5"    }  ], "stars":"5 Stars",  "is_set": true,  "set_name": "",  "item_name": "Sea Dragon's Boots"  ,  "source": "HonorChest",  "materials": [    "Horn",    "Spear"  ]},{"attributes": [{"name": "Increase the defense power of Human and Elf",    "value": "9",    "value_increment": "0.48"    },    {    "name": "Decrease the quest open gold",    "value": "8.5",    "value_increment": "0.81"    }  ], "stars":"5 Stars",  "is_set": true,  "set_name": "",  "item_name": "Sea Dragon's Scale"  ,  "source": "HonorChest",  "materials": [    "Crown",    "Hammer"  ]},{"attributes": [{"name": "Increase the health of Human and Elf",    "value": "34",    "value_increment": "3.24"    },    {    "name": "Increase the quest gold acquisition",    "value": "55",    "value_increment": "4.7"    }  ], "stars":"5 Stars",  "is_set": true,  "set_name": "",  "item_name": "Sea Dragon's Horn"  ,  "source": "HonorChest",  "materials": [    "Plant",    "Spear"  ]},{"attributes": [{"name": "Increase the attack power of Human and Elf",    "value": "8.5",    "value_increment": "0.81"    },    {    "name": "Increase the critical damage of Human and Elf",    "value": "8.5",    "value_increment": "0.81"    }  ], "stars":"5 Stars",  "is_set": true,  "set_name": "",  "item_name": "Sea Dragon's Claw"  ,  "source": "MatShop",  "materials": [    "Hammer",    "Spear"  ]},{"attributes": [{"name": "Increase the health of Undead and Orc",    "value": "34",    "value_increment": "3.24"    },    {    "name": "Reduce the quest time",    "value": "2",    "value_increment": "0.05"    }  ], "stars":"5 Stars",  "is_set": true,  "set_name": "Dark Knight'sArms",  "item_name": "Dark Knight's Bracelet"  ,  "source": "HonorChest",  "materials": [    "Crown",    "Plant"  ]},{"attributes": [{"name": "Increase the attack power of Undead and Orc",    "value": "8.5",    "value_increment": "0.81"    },    {    "name": "Decrease the quest upgrade cost",    "value": "6.5",    "value_increment": "0.5"    }  ], "stars":"5 Stars",  "is_set": true,  "set_name": "",  "item_name": "Dark Knight's Cloak"  ,  "source": "HonorChest",  "materials": [    "Horn",    "Plant"  ]},{"attributes": [{"name": "Decrease the time for Undead and Orc revival",    "value": "0.2025",    "value_increment": "0.0025"    },    {    "name": "Decrease the unit upgrade cost",    "value": "6.5",    "value_increment": "0.5"    }  ], "stars":"5 Stars",  "is_set": true,  "set_name": "",  "item_name": "Dark Knight's Boots"  ,  "source": "HonorChest",  "materials": [    "Hammer",    "Plant"  ]},{"attributes": [{"name": "Increase the defense power of Undead and Orc",    "value": "9",    "value_increment": "0.48"    },    {    "name": "Decrease the quest open gold",    "value": "8.5",    "value_increment": "0.81"    }  ], "stars":"5 Stars",  "is_set": true,  "set_name": "",  "item_name": "Dark Knight's Armor"  ,  "source": "HonorChest",  "materials": [    "Horn",    "Hammer"  ]},{"attributes": [{"name": "Increase the health of Undead and Orc",    "value": "34",    "value_increment": "3.24"    },    {    "name": "Increase the quest gold acquisition",    "value": "55",    "value_increment": "4.7"    }  ], "stars":"5 Stars",  "is_set": true,  "set_name": "",  "item_name": "Dark Knight's Helmet"  ,  "source": "HonorChest",  "materials": [    "Crown",    "Spear"  ]},{"attributes": [{"name": "Increase the attack power of Undead and Orc",    "value": "8.5",    "value_increment": "0.81"    },    {    "name": "Increase the critical damage of Undead and Orc",    "value": "8.5",    "value_increment": "0.81"    }  ], "stars":"5 Stars",  "is_set": true,  "set_name": "",  "item_name": "Dark Knight's Sword"  ,  "source": "MatShop",  "materials": [    "Crown",    "Spear"  ]},{"attributes": [{"name": "Decrease the battle engaging time for Elf",    "value": "0.1525",    "value_increment": "0.0025"    },    {    "name": "Decrease the unit upgrade cost",    "value": "6.5",    "value_increment": "0.5"    }  ], "stars":"5 Stars",  "is_set": true,  "set_name": "Ancient High Priest'sGarment",  "item_name": "Ancient High Priest's Shoes"  ,  "source": "HonorChest",  "materials": [    "Horn",    "Spear"  ]},{"attributes": [{"name": "Increase the health of Elf",    "value": "34",    "value_increment": "3.24"    },    {    "name": "Decrease the quest open gold",    "value": "8.5",    "value_increment": "0.81"    }  ], "stars":"5 Stars",  "is_set": true,  "set_name": "",  "item_name": "Ancient High Priest's Robe"  ,  "source": "HonorChest",  "materials": [    "Crown",    "Hammer"  ]},{"attributes": [{"name": "Increase the defense power of Elf",    "value": "12.75",    "value_increment": "1.215"    },    {    "name": "Increase the quest gold acquisition",    "value": "55",    "value_increment": "4.7"    }  ], "stars":"5 Stars",  "is_set": true,  "set_name": "",  "item_name": "Ancient High Priest's Mask"  ,  "source": "HonorChest",  "materials": [    "Plant",    "Spear"  ]},{"attributes": [{"name": "Increase the attack power of Elf",    "value": "8.5",    "value_increment": "0.81"    },    {    "name": "Increase the critical damage of Elf",    "value": "6",    "value_increment": "0.32"    }  ], "stars":"5 Stars",  "is_set": true,  "set_name": "",  "item_name": "Ancient High Priest's Staff"  ,  "source": "HonorChest",  "materials": [    "Hammer",    "Spear"  ]},{"attributes": [{"name": "Decrease the battle engaging time for Human",    "value": "0.1525",    "value_increment": "0.0025"    },    {    "name": "Decrease the quest upgrade cost",    "value": "6.5",    "value_increment": "0.5"    }  ], "stars":"5 Stars",  "is_set": true,  "set_name": "Necromancer'sSpirit",  "item_name": "Necromancer's Boots"  ,  "source": "HonorChest",  "materials": [    "Crown",    "Plant"  ]},{"attributes": [{"name": "Increase the health of Human",    "value": "34",    "value_increment": "3.24"    },    {    "name": "Decrease the quest open gold",    "value": "8.5",    "value_increment": "0.81"    }  ], "stars":"5 Stars",  "is_set": true,  "set_name": "",  "item_name": "Necromancer's Armor"  ,  "source": "MatShop",  "materials": [    "Horn",    "Plant"  ]},{"attributes": [{"name": "Increase the defense power of Human",    "value": "12.75",    "value_increment": "1.215"    },    {    "name": "Increase the quest gold acquisition",    "value": "55",    "value_increment": "4.7"    }  ], "stars":"5 Stars",  "is_set": true,  "set_name": "",  "item_name": "Necromancer's Helmet"  ,  "source": "HonorChest",  "materials": [    "Hammer",    "Plant"  ]},{"attributes": [{"name": "Increase the attack power of Human",    "value": "8.5",    "value_increment": "0.81"    },    {    "name": "Increase the critical damage of Human",    "value": "6",    "value_increment": "0.32"    }  ], "stars":"5 Stars",  "is_set": true,  "set_name": "",  "item_name": "Necromancer's Staff"  ,  "source": "HonorChest",  "materials": [    "Horn",    "Hammer"  ]},{"attributes": [{"name": "Decrease the time for Orc revival",    "value": "0.2025",    "value_increment": "0.0025"    },    {    "name": "Reduce the quest time",    "value": "2",    "value_increment": "0.05"    }  ], "stars":"5 Stars",  "is_set": true,  "set_name": "Ghost ofSnow Mountain'sBattle Uniform",  "item_name": "Boots of the Ghost of Snow Mountain"  ,  "source": "HonorChest",  "materials": [    "Crown",    "Spear"  ]},{"attributes": [{"name": "Increase the defense power of Orc",    "value": "12.75",    "value_increment": "1.215"    },    {    "name": "Decrease the unit upgrade cost",    "value": "6.5",    "value_increment": "0.5"    }  ], "stars":"5 Stars",  "is_set": true,  "set_name": "",  "item_name": "Armor of the Ghost of Snow Mountain"  ,  "source": "HonorChest",  "materials": [    "Crown",    "Horn"  ]},{"attributes": [{"name": "Increase the health of Orc",    "value": "34",    "value_increment": "3.24"    },    {    "name": "Decrease the quest open gold",    "value": "8.5",    "value_increment": "0.81"    }  ], "stars":"5 Stars",  "is_set": true,  "set_name": "",  "item_name": "Helmet of the Ghost of Snow Mountain"  ,  "source": "HonorChest",  "materials": [    "Horn",    "Spear"  ]},{"attributes": [{"name": "Decrease the time for Undead revival",    "value": "0.2025",    "value_increment": "0.0025"    },    {    "name": "Reduce the quest time",    "value": "2",    "value_increment": "0.05"    }  ], "stars":"5 Stars",  "is_set": true,  "set_name": "Bone Wyvern'sArms",  "item_name": "Bone Wyvern's Boots"  ,  "source": "HonorChest",  "materials": [    "Crown",    "Hammer"  ]},{"attributes": [{"name": "Increase the defense power of Undead",    "value": "12.75",    "value_increment": "1.215"    },    {    "name": "Decrease the unit upgrade cost",    "value": "6.5",    "value_increment": "0.5"    }  ], "stars":"5 Stars",  "is_set": true,  "set_name": "",  "item_name": "Bone Wyvern's Armor"  ,  "source": "HonorChest",  "materials": [    "Plant",    "Spear"  ]},{"attributes": [{"name": "Increase the health of Undead",    "value": "34",    "value_increment": "3.24"    },    {    "name": "Increase the quest gold acquisition",    "value": "55",    "value_increment": "4.7"    }  ], "stars":"5 Stars",  "is_set": true,  "set_name": "",  "item_name": "Bone Wyvern's Helmet"  ,  "source": "MatShop",  "materials": [    "Hammer",    "Spear"  ]},{"attributes": [{"name": "Increase the health of ranged units",    "value": "26",    "value_increment": ""    },    {    "name": "Increase the defense power of ranged units",    "value": "9.75",    "value_increment": ""    }  ], "stars":"5 Stars",  "is_set": true,  "set_name": "Oath of Heaven",  "item_name": "Heaven's Earrings"  ,  "source": "HonorChest",  "materials": [    "Crown",    "Plant"  ]},{"attributes": [{"name": "Increase the health of melee unit",    "value": "26",    "value_increment": ""    },    {    "name": "Increase the defense power of melee unit",    "value": "9.75",    "value_increment": ""    }  ], "stars":"5 Stars",  "is_set": true,  "set_name": "",  "item_name": "Heaven's Necklace"  ,  "source": "MatShop",  "materials": [    "Horn",    "Plant"  ]},{"attributes": [{"name": "Increase the attack power of Undead",    "value": "8.5",    "value_increment": ""    },    {    "name": "Increase the critical damage of Undead",    "value": "6",    "value_increment": ""    }  ], "stars":"5 Stars",  "is_set": true,  "set_name": "Sword of Spirit ofDark and Light",  "item_name": "Blazing Sword of Light"  ,  "source": "HonorChest",  "materials": [    "Hammer",    "Plant"  ]},{"attributes": [{"name": "Increase the attack power of Orc",    "value": "8.5",    "value_increment": "0.81"    },    {    "name": "Increase the critical damage of Orc",    "value": "6",    "value_increment": ""    }  ], "stars":"5 Stars",  "is_set": true,  "set_name": "",  "item_name": "Frosting Sword of Dark"  ,  "source": "HonorChest",  "materials": [    "Horn",    "Hammer"  ]},{"attributes": [{"name": "Decrease the health of a dungeon general unit",    "value": "0.1525",    "value_increment": "0.0025"    },    {    "name": "Reduce the quest time",    "value": "2",    "value_increment": "0.05"    }  ], "stars":"5 Stars",  "is_set": true,  "set_name": "Great General'sArms",  "item_name": "Great General's Cloak"  ,  "source": "MatShop",  "materials": [    "Crown",    "Spear"  ]},{"attributes": [{"name": "Increase the critical strike rate of all units",    "value": "0.132",    "value_increment": "0.003"    },    {    "name": "Increase the attack power of ranged units",    "value": "6.5",    "value_increment": "0.5"    }  ], "stars":"5 Stars",  "is_set": true,  "set_name": "",  "item_name": "Great General's Enhanced AlloyGreatsword"  ,  "source": "MatShop",  "materials": [    "Plant",    "Spear"  ]},{"attributes": [{"name": "Increase the attack power of all units",    "value": "6",    "value_increment": "0.32"    },    {    "name": "Decrease the quest open gold",    "value": "8.5",    "value_increment": "0.81"    }  ], "stars":"5 Stars",  "is_set": true,  "set_name": "",  "item_name": "Great General's Enhanced AlloyHammer"  ,  "source": "MatShop",  "materials": [    "Hammer",    "Spear"  ]},{"attributes": [{"name": "Reduce the units' battle engaging time of all units",    "value": "0.1525",    "value_increment": "0.0025"    },    {    "name": "Decrease the health of a dungeon boss",    "value": "0.1525",    "value_increment": "0.0025"    }  ], "stars":"5 Stars",  "is_set": true,  "set_name": "Master's LionHide",  "item_name": "Master's Lion Hide Boots"  ,  "source": "MatShop",  "materials": [    "Crown",    "Horn"  ]},{"attributes": [{"name": "Increase the health of a friendly tower",    "value": "8.3",    "value_increment": ""    },    {    "name": "Increase the attack power of melee units",    "value": "6.5",    "value_increment": ""    }  ], "stars":"5 Stars",  "is_set": true,  "set_name": "",  "item_name": "Master's Lion Hide Armor"  ,  "source": "MatShop",  "materials": [    "Crown",    "Plant"  ]},{"attributes": [{"name": "Decrease the time for revival of all units",    "value": "0.2025",    "value_increment": "0.0025"    },    {    "name": "Decrease the unit upgrade cost",    "value": "6.5",    "value_increment": "0.5"    }  ], "stars":"5 Stars",  "is_set": true,  "set_name": "TempleBattlemage'sWeapon",  "item_name": "Temple Battlemage's Shoes"  ,  "source": "MatShop",  "materials": [    "Horn",    "Spear"  ]},{"attributes": [{"name": "Increase the defense power of all units",    "value": "9",    "value_increment": "0.48"    },    {    "name": "Decrease the quest upgrade cost",    "value": "6.5",    "value_increment": "0.5"    }  ], "stars":"5 Stars",  "is_set": true,  "set_name": "",  "item_name": "Temple Battlemage's Hat"  ,  "source": "MatShop",  "materials": [    "Crown",    "Hammer"  ]},{"attributes": [{"name": "Increase the health of all units",    "value": "24",    "value_increment": "1.28"    },    {    "name": "Increase the quest gold acquisition",    "value": "55",    "value_increment": "4.7"    }  ], "stars":"5 Stars",  "is_set": true,  "set_name": "",  "item_name": "Temple Battlemage's Tunic"  ,  "source": "MatShop",  "materials": [    "Horn",    "Plant"  ]},{"attributes": [{"name": "Decrease the health of a dungeon general unit",    "value": "0.1025",    "value_increment": "0.0025"    },    {    "name": "Reduce the quest time",    "value": "1.2",    "value_increment": "0.04"    }  ], "stars":"4 Stars",  "is_set": true,  "set_name": "",  "item_name": "Royalty's Cloak"  ,  "source": "",  "materials": [    "Crown",    "Spear"  ]},{"attributes": [{"name": "Reduce the Human, Elf units' battle engaging time",    "value": "0.1025",    "value_increment": "0.0025"    },    {    "name": "Decrease the health of a dungeon boss",    "value": "0.1025",    "value_increment": "0.0025"    }  ], "stars":"4 Stars",  "is_set": true,  "set_name": "Reinforced BrownBear Hide",  "item_name": "Reinforced Bear Hide Boots"  ,  "source": "",  "materials": [    "Crown",    "Horn"  ]},{"attributes": [{"name": "Increase the health of a friendly tower",    "value": "6.2",    "value_increment": ""   },    {    "name": "Increase the attack power of melee units",    "value": "2.8",    "value_increment": ""   }  ], "stars":"4 Stars",  "is_set": true,  "set_name": "",  "item_name": "Reinforced Bear Hide Armor"  ,  "source": "",  "materials": [    "Crown",    "Plant"  ]},{"attributes": [{"name": "Decrease the time for Undead and Human revival",    "value": "0.1525",    "value_increment": "0.0025"    },    {    "name": "Decrease the unit upgrade cost",    "value": "2.8",    "value_increment": ""    }  ], "stars":"4 Stars",  "is_set": true,  "set_name": "Warlock'sGarment",  "item_name": "Warlock's Shoes"  ,  "source": "",  "materials": [    "Horn",    "Spear"  ]},{"attributes": [{"name": "Increase the defense power of Orc and Undead",    "value": "5.25",    "value_increment": "0.405"    },    {    "name": "Decrease the quest upgrade cost",    "value": "2.8",    "value_increment": "0.2"    }  ], "stars":"4 Stars",  "is_set": true,  "set_name": "",  "item_name": "Warlock's Hat"  ,  "source": "",  "materials": [    "Crown",    "Hammer"  ]},{"attributes": [{"name": "Increase the health of Elf and Orc",    "value": "14",    "value_increment": "1.08"    },    {    "name": "Increase the quest gold acquisition",    "value": "20",    "value_increment": "1.88"    }  ], "stars":"4 Stars",  "is_set": true,  "set_name": "",  "item_name": "Warlock's Robe"  ,  "source": "",  "materials": [    "Horn",    "Plant"  ]},{"attributes": [{"name": "Increase the critical strike rate of Human and Elf",    "value": "0.15",    "value_increment": "0.004"    },    {    "name": "Increase the attack power of ranged units",    "value": "2.8",    "value_increment": "0.2"    }  ], "stars":"4 Stars",  "is_set": true,  "set_name": "Royal Guard'sWeapon",  "item_name": "Imperial Captain's Alloy Greatsword"  ,  "source": "",  "materials": [    "Plant",    "Spear"  ]},{"attributes": [{"name": "Increase the attack power of Human and Elf",    "value": "3.5",    "value_increment": "0.27"    },    {    "name": "Decrease the quest open gold",    "value": "3.5",    "value_increment": "0.27"    }  ], "stars":"4 Stars",  "is_set": true,  "set_name": "",  "item_name": "Knight of Royal Guard's Alloy Hammer"  ,  "source": "",  "materials": [    "Hammer",    "Spear"  ]}]
+[
+  {
+    "attributes": [
+      {
+        "name": "Increase the attack power of Elf",
+        "value": "24",
+        "value_increment": "2.43"
+      },
+      {
+        "name": "Decrease the quest open gold",
+        "value": "24",
+        "value_increment": "2.43"
+      }
+    ],
+    "stars": "6 Stars",
+    "is_set": true,
+    "set_name": "Shrine of Justice",
+    "item_name": "Arrow of Shrine of Justice",
+    "source": "HonorChest",
+    "materials": [
+      "Plant",
+      "Spear"
+    ]
+  },
+  {
+    "attributes": [
+      {
+        "name": "Increase the health of a friendly tower",
+        "value": "12.4",
+        "value_increment": "0.39"
+      },
+      {
+        "name": "Decrease the health of a dungeon general unit",
+        "value": "0.2025",
+        "value_increment": "0.0025"
+      }
+    ],
+    "stars": "6 Stars",
+    "is_set": true,
+    "set_name": "Shrine of Justice",
+    "item_name": "Mark of Shrine of Justice",
+    "source": "HonorChest",
+    "materials": [
+      "Hammer",
+      "Spear"
+    ]
+  },
+  {
+    "attributes": [
+      {
+        "name": "Decrease the battle engaging time for Elf",
+        "value": "0.2025",
+        "value_increment": "0.0025"
+      },
+      {
+        "name": "Reduce the quest time",
+        "value": "4",
+        "value_increment": "0.15"
+      }
+    ],
+    "stars": "6 Stars",
+    "is_set": true,
+    "set_name": "Shrine of Justice",
+    "item_name": "Shoes of Shrine of Justice",
+    "source": "HonorChest",
+    "materials": [
+      "Crown",
+      "Plant"
+    ]
+  },
+  {
+    "attributes": [
+      {
+        "name": "Increase the health of Elf",
+        "value": "96",
+        "value_increment": "9.72"
+      },
+      {
+        "name": "Increase the defense power of Elf",
+        "value": "36",
+        "value_increment": "3.645"
+      }
+    ],
+    "stars": "6 Stars",
+    "is_set": true,
+    "set_name": "Shrine of Justice",
+    "item_name": "Armor of Shrine of Justice",
+    "source": "HonorChest",
+    "materials": [
+      "Horn",
+      "Plant"
+    ]
+  },
+  {
+    "attributes": [
+      {
+        "name": "Increase the defense power of Elf",
+        "value": "36",
+        "value_increment": "3.645"
+      },
+      {
+        "name": "Decrease the quest upgrade cost",
+        "value": "16",
+        "value_increment": "1.25"
+      }
+    ],
+    "stars": "6 Stars",
+    "is_set": true,
+    "set_name": "Shrine of Justice",
+    "item_name": "Hat of Shrine of Justice",
+    "source": "HonorChest",
+    "materials": [
+      "Hammer",
+      "Plant"
+    ]
+  },
+  {
+    "attributes": [
+      {
+        "name": "Increase the attack power of Elf",
+        "value": "24",
+        "value_increment": "2.43"
+      },
+      {
+        "name": "Increase the quest gold acquisition",
+        "value": "200",
+        "value_increment": "21.15"
+      }
+    ],
+    "stars": "6 Stars",
+    "is_set": true,
+    "set_name": "Shrine of Justice",
+    "item_name": "Bow of Shrine of Justice",
+    "source": "HonorChest",
+    "materials": [
+      "Horn",
+      "Hammer"
+    ]
+  },
+  {
+    "attributes": [
+      {
+        "name": "Increase the attack power of Human",
+        "value": "24",
+        "value_increment": "2.43"
+      },
+      {
+        "name": "Decrease the quest open gold",
+        "value": "24",
+        "value_increment": "2.43"
+      }
+    ],
+    "stars": "6 Stars",
+    "is_set": true,
+    "set_name": "Descend of Supernova",
+    "item_name": "Supernova's Bracelet",
+    "source": "HonorChest",
+    "materials": [
+      "Crown",
+      "Spear"
+    ]
+  },
+  {
+    "attributes": [
+      {
+        "name": "Increase the health of a friendly tower",
+        "value": "12.4",
+        "value_increment": "0.39"
+      },
+      {
+        "name": "Decrease the health of a dungeon general unit",
+        "value": "0.2025",
+        "value_increment": "0.0025"
+      }
+    ],
+    "stars": "6 Stars",
+    "is_set": true,
+    "set_name": "Descend of Supernova",
+    "item_name": "Supernova's Ring",
+    "source": "HonorChest",
+    "materials": [
+      "Crown",
+      "Horn"
+    ]
+  },
+  {
+    "attributes": [
+      {
+        "name": "Decrease the battle engaging time for Human",
+        "value": "0.2025",
+        "value_increment": "0.0025"
+      },
+      {
+        "name": "Reduce the quest time",
+        "value": "4",
+        "value_increment": "0.15"
+      }
+    ],
+    "stars": "6 Stars",
+    "is_set": true,
+    "set_name": "Descend of Supernova",
+    "item_name": "Supernova's Shoes",
+    "source": "HonorChest",
+    "materials": [
+      "Horn",
+      "Spear"
+    ]
+  },
+  {
+    "attributes": [
+      {
+        "name": "Increase the health of Human",
+        "value": "96",
+        "value_increment": "9.72"
+      },
+      {
+        "name": "Increase the defense power of Human",
+        "value": "36",
+        "value_increment": "3.645"
+      }
+    ],
+    "stars": "6 Stars",
+    "is_set": true,
+    "set_name": "Descend of Supernova",
+    "item_name": "Supernova's Robe",
+    "source": "HonorChest",
+    "materials": [
+      "Crown",
+      "Hammer"
+    ]
+  },
+  {
+    "attributes": [
+      {
+        "name": "Increase the defense power of Human",
+        "value": "36",
+        "value_increment": "3.645"
+      },
+      {
+        "name": "Decrease the quest upgrade cost",
+        "value": "16",
+        "value_increment": "1.25"
+      }
+    ],
+    "stars": "6 Stars",
+    "is_set": true,
+    "set_name": "Descend of Supernova",
+    "item_name": "Supernova's Hat",
+    "source": "HonorChest",
+    "materials": [
+      "Plant",
+      "Spear"
+    ]
+  },
+  {
+    "attributes": [
+      {
+        "name": "Increase the attack power of Human",
+        "value": "24",
+        "value_increment": "2.43"
+      },
+      {
+        "name": "Increase the quest gold acquisition",
+        "value": "200",
+        "value_increment": "21.15"
+      }
+    ],
+    "stars": "6 Stars",
+    "is_set": true,
+    "set_name": "Descend of Supernova",
+    "item_name": "Supernova's Staff",
+    "source": "HonorChest",
+    "materials": [
+      "Hammer",
+      "Spear"
+    ]
+  },
+  {
+    "attributes": [
+      {
+        "name": "Increase the attack power of Undead",
+        "value": "24",
+        "value_increment": "2.43"
+      },
+      {
+        "name": "Decrease the quest open gold",
+        "value": "24",
+        "value_increment": "2.43"
+      }
+    ],
+    "stars": "6 Stars",
+    "is_set": true,
+    "set_name": "Lord of Darkness's Arms",
+    "item_name": "Lord of Darkness's Necklace",
+    "source": "HonorChest",
+    "materials": [
+      "Crown",
+      "Plant"
+    ]
+  },
+  {
+    "attributes": [
+      {
+        "name": "Increase the health of a friendly tower",
+        "value": "12.4",
+        "value_increment": "0.39"
+      },
+      {
+        "name": "Decrease the health of a dungeon general unit",
+        "value": "0.2025",
+        "value_increment": "0.0025"
+      }
+    ],
+    "stars": "6 Stars",
+    "is_set": true,
+    "set_name": "Lord of Darkness's Arms",
+    "item_name": "Lord of Darkness's Cloak",
+    "source": "HonorChest",
+    "materials": [
+      "Horn",
+      "Plant"
+    ]
+  },
+  {
+    "attributes": [
+      {
+        "name": "Decrease the battle engaging time for Undead",
+        "value": "0.2025",
+        "value_increment": "0.0025"
+      },
+      {
+        "name": "Reduce the quest time",
+        "value": "4",
+        "value_increment": "0.15"
+      }
+    ],
+    "stars": "6 Stars",
+    "is_set": true,
+    "set_name": "Lord of Darkness's Arms",
+    "item_name": "Lord of Darkness's Shoes",
+    "source": "HonorChest",
+    "materials": [
+      "Hammer",
+      "Plant"
+    ]
+  },
+  {
+    "attributes": [
+      {
+        "name": "Increase the health of Undead",
+        "value": "96",
+        "value_increment": "9.72"
+      },
+      {
+        "name": "Increase the defense power of Undead",
+        "value": "36",
+        "value_increment": "3.645"
+      }
+    ],
+    "stars": "6 Stars",
+    "is_set": true,
+    "set_name": "Lord of Darkness's Arms",
+    "item_name": "Lord of Darkness's Armor",
+    "source": "HonorChest",
+    "materials": [
+      "Horn",
+      "Hammer"
+    ]
+  },
+  {
+    "attributes": [
+      {
+        "name": "Increase the defense power of Undead",
+        "value": "36",
+        "value_increment": "3.645"
+      },
+      {
+        "name": "Decrease the quest upgrade cost",
+        "value": "16",
+        "value_increment": "1.25"
+      }
+    ],
+    "stars": "6 Stars",
+    "is_set": true,
+    "set_name": "Lord of Darkness's Arms",
+    "item_name": "Lord of Darkness's Helmet",
+    "source": "HonorChest",
+    "materials": [
+      "Crown",
+      "Spear"
+    ]
+  },
+  {
+    "attributes": [
+      {
+        "name": "Increase the attack power of Undead",
+        "value": "24",
+        "value_increment": "2.43"
+      },
+      {
+        "name": "Increase the quest gold acquisition",
+        "value": "200",
+        "value_increment": "21.15"
+      }
+    ],
+    "stars": "6 Stars",
+    "is_set": true,
+    "set_name": "Lord of Darkness's Arms",
+    "item_name": "Lord of Darkness's Mace",
+    "source": "HonorChest",
+    "materials": [
+      "Crown",
+      "Horn"
+    ]
+  },
+  {
+    "attributes": [
+      {
+        "name": "Increase the attack power of Orc",
+        "value": "24",
+        "value_increment": "2.43"
+      },
+      {
+        "name": "Decrease the quest open gold",
+        "value": "24",
+        "value_increment": "2.43"
+      }
+    ],
+    "stars": "6 Stars",
+    "is_set": true,
+    "set_name": "Frost Knight's Arms",
+    "item_name": "Frost Knight's Shield",
+    "source": "HonorChest",
+    "materials": [
+      "Horn",
+      "Spear"
+    ]
+  },
+  {
+    "attributes": [
+      {
+        "name": "Increase the health of a friendly tower",
+        "value": "12.4",
+        "value_increment": "0.39"
+      },
+      {
+        "name": "Decrease the health of a dungeon general unit",
+        "value": "0.2025",
+        "value_increment": "0.0025"
+      }
+    ],
+    "stars": "6 Stars",
+    "is_set": true,
+    "set_name": "Frost Knight's Arms",
+    "item_name": "Frost Knight's Ring",
+    "source": "HonorChest",
+    "materials": [
+      "Crown",
+      "Hammer"
+    ]
+  },
+  {
+    "attributes": [
+      {
+        "name": "Decrease the battle engaging time for Orc",
+        "value": "0.2025",
+        "value_increment": "0.0025"
+      },
+      {
+        "name": "Reduce the quest time",
+        "value": "4",
+        "value_increment": "0.15"
+      }
+    ],
+    "stars": "6 Stars",
+    "is_set": true,
+    "set_name": "Frost Knight's Arms",
+    "item_name": "Frost Knight's Boots",
+    "source": "HonorChest",
+    "materials": [
+      "Plant",
+      "Spear"
+    ]
+  },
+  {
+    "attributes": [
+      {
+        "name": "Increase the health of Orc",
+        "value": "96",
+        "value_increment": "9.72"
+      },
+      {
+        "name": "Increase the defense power of Orc",
+        "value": "36",
+        "value_increment": "3.645"
+      }
+    ],
+    "stars": "6 Stars",
+    "is_set": true,
+    "set_name": "Frost Knight's Arms",
+    "item_name": "Frost Knight's Armor",
+    "source": "HonorChest",
+    "materials": [
+      "Hammer",
+      "Spear"
+    ]
+  },
+  {
+    "attributes": [
+      {
+        "name": "Increase the defense power of Orc",
+        "value": "36",
+        "value_increment": "3.645"
+      },
+      {
+        "name": "Decrease the quest upgrade cost",
+        "value": "16",
+        "value_increment": "1.25"
+      }
+    ],
+    "stars": "6 Stars",
+    "is_set": true,
+    "set_name": "Frost Knight's Arms",
+    "item_name": "Frost Knight's Helmet",
+    "source": "HonorChest",
+    "materials": [
+      "Crown",
+      "Plant"
+    ]
+  },
+  {
+    "attributes": [
+      {
+        "name": "Increase the attack power of Orc",
+        "value": "24",
+        "value_increment": "2.43"
+      },
+      {
+        "name": "Increase the quest gold acquisition",
+        "value": "200",
+        "value_increment": "21.15"
+      }
+    ],
+    "stars": "6 Stars",
+    "is_set": true,
+    "set_name": "Frost Knight's Arms",
+    "item_name": "Frost Knight's Sword",
+    "source": "HonorChest",
+    "materials": [
+      "Horn",
+      "Plant"
+    ]
+  },
+  {
+    "attributes": [
+      {
+        "name": "Decrease the battle engaging time for Orc and Undead",
+        "value": "0.2025",
+        "value_increment": "0.0025"
+      },
+      {
+        "name": "Decrease the quest upgrade cost",
+        "value": "16",
+        "value_increment": "1.25"
+      }
+    ],
+    "stars": "6 Stars",
+    "is_set": true,
+    "set_name": "King of Battle Beast's Arms",
+    "item_name": "King of Beast's Boots",
+    "source": "HonorChest",
+    "materials": [
+      "Hammer",
+      "Plant"
+    ]
+  },
+  {
+    "attributes": [
+      {
+        "name": "Increase the health of Orc and Undead",
+        "value": "96",
+        "value_increment": "9.72"
+      },
+      {
+        "name": "Decrease the quest open gold",
+        "value": "24",
+        "value_increment": "2.43"
+      }
+    ],
+    "stars": "6 Stars",
+    "is_set": true,
+    "set_name": "King of Battle Beast's Arms",
+    "item_name": "King of Beast's Armor",
+    "source": "HonorChest",
+    "materials": [
+      "Horn",
+      "Hammer"
+    ]
+  },
+  {
+    "attributes": [
+      {
+        "name": "Increase the defense power of Orc and Undead",
+        "value": "36",
+        "value_increment": "3.645"
+      },
+      {
+        "name": "Decrease the unit upgrade cost",
+        "value": "16",
+        "value_increment": "1.25"
+      }
+    ],
+    "stars": "6 Stars",
+    "is_set": true,
+    "set_name": "King of Battle Beast's Arms",
+    "item_name": "King of Beast's Helmet",
+    "source": "HonorChest",
+    "materials": [
+      "Crown",
+      "Spear"
+    ]
+  },
+  {
+    "attributes": [
+      {
+        "name": "Increase the attack power of Orc and Undead",
+        "value": "24",
+        "value_increment": "2.43"
+      },
+      {
+        "name": "Increase the quest gold acquisition",
+        "value": "200",
+        "value_increment": "21.15"
+      }
+    ],
+    "stars": "6 Stars",
+    "is_set": true,
+    "set_name": "King of Battle Beast's Arms",
+    "item_name": "King of Beast's Sword",
+    "source": "HonorChest",
+    "materials": [
+      "Crown",
+      "Horn"
+    ]
+  },
+  {
+    "attributes": [
+      {
+        "name": "Decrease the battle engaging time for air unit",
+        "value": "0.2025",
+        "value_increment": "0.0025"
+      },
+      {
+        "name": "Decrease the quest upgrade cost",
+        "value": "16",
+        "value_increment": "1.25"
+      }
+    ],
+    "stars": "6 Stars",
+    "is_set": true,
+    "set_name": "Ancient Outland Beast's Arms",
+    "item_name": "Ancient Outland Beast's Boots",
+    "source": "HonorChest",
+    "materials": [
+      "Horn",
+      "Spear"
+    ]
+  },
+  {
+    "attributes": [
+      {
+        "name": "Increase the health of air unit",
+        "value": "76.8",
+        "value_increment": ""
+      },
+      {
+        "name": "Decrease the quest open gold",
+        "value": "24",
+        "value_increment": "2.43"
+      }
+    ],
+    "stars": "6 Stars",
+    "is_set": true,
+    "set_name": "Ancient Outland Beast's Arms",
+    "item_name": "Ancient Outland Beast's Armor",
+    "source": "HonorChest",
+    "materials": [
+      "Crown",
+      "Hammer"
+    ]
+  },
+  {
+    "attributes": [
+      {
+        "name": "Increase the defense power of air unit",
+        "value": "28.8",
+        "value_increment": ""
+      },
+      {
+        "name": "Increase the quest gold acquisition",
+        "value": "200",
+        "value_increment": "21.15"
+      }
+    ],
+    "stars": "6 Stars",
+    "is_set": true,
+    "set_name": "Ancient Outland Beast's Arms",
+    "item_name": "Ancient Outland Beast's Helmet",
+    "source": "HonorChest",
+    "materials": [
+      "Plant",
+      "Spear"
+    ]
+  },
+  {
+    "attributes": [
+      {
+        "name": "Increase the attack power of air unit",
+        "value": "19.2",
+        "value_increment": ""
+      },
+      {
+        "name": "Increase the critical damage of air unit",
+        "value": "19.2",
+        "value_increment": ""
+      }
+    ],
+    "stars": "6 Stars",
+    "is_set": true,
+    "set_name": "Ancient Outland Beast's Arms",
+    "item_name": "Ancient Outland Beast's Blunt Force",
+    "source": "HonorChest",
+    "materials": [
+      "Hammer",
+      "Spear"
+    ]
+  },
+  {
+    "attributes": [
+      {
+        "name": "Decrease the battle engaging time for Human and Elf",
+        "value": "0.2025",
+        "value_increment": "0.0025"
+      },
+      {
+        "name": "Decrease the quest upgrade cost",
+        "value": "16",
+        "value_increment": "1.25"
+      }
+    ],
+    "stars": "6 Stars",
+    "is_set": true,
+    "set_name": "Legacy of Abundance",
+    "item_name": "Golden Cloak of Abundance",
+    "source": "HonorChest",
+    "materials": [
+      "Crown",
+      "Plant"
+    ]
+  },
+  {
+    "attributes": [
+      {
+        "name": "Increase the health of Human and Elf",
+        "value": "96",
+        "value_increment": "9.72"
+      },
+      {
+        "name": "Decrease the quest open gold",
+        "value": "24",
+        "value_increment": "2.43"
+      }
+    ],
+    "stars": "6 Stars",
+    "is_set": true,
+    "set_name": "Legacy of Abundance",
+    "item_name": "Golden Ring of Abundance",
+    "source": "HonorChest",
+    "materials": [
+      "Horn",
+      "Plant"
+    ]
+  },
+  {
+    "attributes": [
+      {
+        "name": "Increase the defense power of Human and Elf",
+        "value": "36",
+        "value_increment": "3.645"
+      },
+      {
+        "name": "Decrease the unit upgrade cost",
+        "value": "16",
+        "value_increment": "1.25"
+      }
+    ],
+    "stars": "6 Stars",
+    "is_set": true,
+    "set_name": "Legacy of Abundance",
+    "item_name": "Golden Boots of Abundance",
+    "source": "HonorChest",
+    "materials": [
+      "Hammer",
+      "Plant"
+    ]
+  },
+  {
+    "attributes": [
+      {
+        "name": "Increase the attack power of Human and Elf",
+        "value": "24",
+        "value_increment": "2.43"
+      },
+      {
+        "name": "Increase the quest gold acquisition",
+        "value": "200",
+        "value_increment": "21.15"
+      }
+    ],
+    "stars": "6 Stars",
+    "is_set": true,
+    "set_name": "Legacy of Abundance",
+    "item_name": "Laurel Bow of Abundance",
+    "source": "HonorChest",
+    "materials": [
+      "Horn",
+      "Hammer"
+    ]
+  },
+  {
+    "attributes": [
+      {
+        "name": "Decrease the health of a dungeon general unit",
+        "value": "0.2025",
+        "value_increment": "0.0025"
+      },
+      {
+        "name": "Reduce the quest time",
+        "value": "4",
+        "value_increment": "0.15"
+      }
+    ],
+    "stars": "6 Stars",
+    "is_set": true,
+    "set_name": "Immortal Ancient Weapon",
+    "item_name": "Immortal Fire Wing",
+    "source": "HonorChest",
+    "materials": [
+      "Crown",
+      "Spear"
+    ]
+  },
+  {
+    "attributes": [
+      {
+        "name": "Increase the attack power of melee unit",
+        "value": "16",
+        "value_increment": "1.25"
+      },
+      {
+        "name": "Increase the health of melee unit",
+        "value": "64",
+        "value_increment": ""
+      }
+    ],
+    "stars": "6 Stars",
+    "is_set": true,
+    "set_name": "Immortal Ancient Weapon",
+    "item_name": "Lion's Immortal Armor",
+    "source": "HonorChest",
+    "materials": [
+      "Crown",
+      "Horn"
+    ]
+  },
+  {
+    "attributes": [
+      {
+        "name": "Decrease the time for revival of all units",
+        "value": "0.2525",
+        "value_increment": ""
+      },
+      {
+        "name": "Decrease the unit upgrade cost",
+        "value": "16",
+        "value_increment": "1.25"
+      }
+    ],
+    "stars": "6 Stars",
+    "is_set": true,
+    "set_name": "Immortal Ancient Weapon",
+    "item_name": "Fire Dragon's Immortal Sword",
+    "source": "HonorChest",
+    "materials": [
+      "Horn",
+      "Spear"
+    ]
+  },
+  {
+    "attributes": [
+      {
+        "name": "Increase the defense power of all units",
+        "value": "18.6",
+        "value_increment": ""
+      },
+      {
+        "name": "Decrease the quest upgrade cost",
+        "value": "16",
+        "value_increment": "1.25"
+      }
+    ],
+    "stars": "6 Stars",
+    "is_set": true,
+    "set_name": "The Ruler of Darkness",
+    "item_name": "Cloak of Darkness",
+    "source": "HonorChest",
+    "materials": [
+      "Crown",
+      "Hammer"
+    ]
+  },
+  {
+    "attributes": [
+      {
+        "name": "Increase the health of ranged units",
+        "value": "64",
+        "value_increment": ""
+      },
+      {
+        "name": "Increase the attack power of ranged units",
+        "value": "16",
+        "value_increment": "1.25"
+      }
+    ],
+    "stars": "6 Stars",
+    "is_set": true,
+    "set_name": "The Ruler of Darkness",
+    "item_name": "Boots of Darkness",
+    "source": "HonorChest",
+    "materials": [
+      "Plant",
+      "Spear"
+    ]
+  },
+  {
+    "attributes": [
+      {
+        "name": "Increase the attack power of all units",
+        "value": "12.4",
+        "value_increment": "0.39"
+      },
+      {
+        "name": "Decrease the quest open gold",
+        "value": "24",
+        "value_increment": "2.43"
+      }
+    ],
+    "stars": "6 Stars",
+    "is_set": true,
+    "set_name": "The Ruler of Darkness",
+    "item_name": "Horn Hood of Darkness",
+    "source": "HonorChest",
+    "materials": [
+      "Hammer",
+      "Spear"
+    ]
+  },
+  {
+    "attributes": [
+      {
+        "name": "Decrease the battle engaging time for Undead",
+        "value": "0.1525",
+        "value_increment": "0.0025"
+      },
+      {
+        "name": "Decrease the unit upgrade cost",
+        "value": "6.5",
+        "value_increment": "0.5"
+      }
+    ],
+    "stars": "5 Stars",
+    "is_set": true,
+    "set_name": "Ancient Battle Secret Book",
+    "item_name": "Secret Book 4",
+    "source": "MatShop",
+    "materials": [
+      "Hammer",
+      "Plant"
+    ]
+  },
+  {
+    "attributes": [
+      {
+        "name": "Increase the health of Undead",
+        "value": "34",
+        "value_increment": "3.24"
+      },
+      {
+        "name": "Decrease the quest open gold",
+        "value": "8.5",
+        "value_increment": "0.81"
+      }
+    ],
+    "stars": "5 Stars",
+    "is_set": true,
+    "set_name": "Ancient Battle Secret Book",
+    "item_name": "Secret Book 3",
+    "source": "MatShop",
+    "materials": [
+      "Horn",
+      "Hammer"
+    ]
+  },
+  {
+    "attributes": [
+      {
+        "name": "Increase the defense power of Undead",
+        "value": "12.75",
+        "value_increment": "1.215"
+      },
+      {
+        "name": "Increase the quest gold acquisition",
+        "value": "55",
+        "value_increment": "4.7"
+      }
+    ],
+    "stars": "5 Stars",
+    "is_set": true,
+    "set_name": "Ancient Battle Secret Book",
+    "item_name": "Secret Book 2",
+    "source": "GuildShop",
+    "materials": [
+      "Crown",
+      "Spear"
+    ]
+  },
+  {
+    "attributes": [
+      {
+        "name": "Increase the attack power of Undead",
+        "value": "8.5",
+        "value_increment": "0.81"
+      },
+      {
+        "name": "Increase the critical damage of Undead",
+        "value": "6",
+        "value_increment": "0.32"
+      }
+    ],
+    "stars": "5 Stars",
+    "is_set": true,
+    "set_name": "Ancient Battle Secret Book",
+    "item_name": "Secret Book 1",
+    "source": "MatShop",
+    "materials": [
+      "Crown",
+      "Horn"
+    ]
+  },
+  {
+    "attributes": [
+      {
+        "name": "Decrease the time for Human revival",
+        "value": "0.2025",
+        "value_increment": "0.0025"
+      },
+      {
+        "name": "Reduce the quest time",
+        "value": "2",
+        "value_increment": "0.05"
+      }
+    ],
+    "stars": "5 Stars",
+    "is_set": true,
+    "set_name": "Underground Guild's Assassin",
+    "item_name": "Assassin's Boots",
+    "source": "GuildShop",
+    "materials": [
+      "Crown",
+      "Hammer"
+    ]
+  },
+  {
+    "attributes": [
+      {
+        "name": "Increase the defense power of Human",
+        "value": "12.75",
+        "value_increment": "1.215"
+      },
+      {
+        "name": "Decrease the unit upgrade cost",
+        "value": "6.5",
+        "value_increment": "0.5"
+      }
+    ],
+    "stars": "5 Stars",
+    "is_set": true,
+    "set_name": "Underground Guild's Assassin",
+    "item_name": "Assassin's Armor",
+    "source": "MatShop",
+    "materials": [
+      "Plant",
+      "Spear"
+    ]
+  },
+  {
+    "attributes": [
+      {
+        "name": "Increase the health of Human",
+        "value": "34",
+        "value_increment": "3.24"
+      },
+      {
+        "name": "Increase the quest gold acquisition",
+        "value": "55",
+        "value_increment": "4.7"
+      }
+    ],
+    "stars": "5 Stars",
+    "is_set": true,
+    "set_name": "Underground Guild's Assassin",
+    "item_name": "Assassin's Helm",
+    "source": "MatShop",
+    "materials": [
+      "Hammer",
+      "Spear"
+    ]
+  },
+  {
+    "attributes": [
+      {
+        "name": "Increase the health of Human and Elf",
+        "value": "34",
+        "value_increment": "3.24"
+      },
+      {
+        "name": "Reduce the quest time",
+        "value": "2",
+        "value_increment": "0.05"
+      }
+    ],
+    "stars": "5 Stars",
+    "is_set": true,
+    "set_name": "Sea Dragon's Arms",
+    "item_name": "Sea Dragon's Pure Bracelet",
+    "source": "HonorChest",
+    "materials": [
+      "Crown",
+      "Spear"
+    ]
+  },
+  {
+    "attributes": [
+      {
+        "name": "Increase the attack power of Human and Elf",
+        "value": "8.5",
+        "value_increment": "0.81"
+      },
+      {
+        "name": "Decrease the quest upgrade cost",
+        "value": "6.5",
+        "value_increment": "0.5"
+      }
+    ],
+    "stars": "5 Stars",
+    "is_set": true,
+    "set_name": "Sea Dragon's Arms",
+    "item_name": "Sea Dragon's Pure Necklace",
+    "source": "HonorChest",
+    "materials": [
+      "Crown",
+      "Horn"
+    ]
+  },
+  {
+    "attributes": [
+      {
+        "name": "Decrease the time for Human and Elf revival",
+        "value": "0.2025",
+        "value_increment": "0.0025"
+      },
+      {
+        "name": "Decrease the unit upgrade cost",
+        "value": "6.5",
+        "value_increment": "0.5"
+      }
+    ],
+    "stars": "5 Stars",
+    "is_set": true,
+    "set_name": "Sea Dragon's Arms",
+    "item_name": "Sea Dragon's Boots",
+    "source": "HonorChest",
+    "materials": [
+      "Horn",
+      "Spear"
+    ]
+  },
+  {
+    "attributes": [
+      {
+        "name": "Increase the defense power of Human and Elf",
+        "value": "9",
+        "value_increment": "0.48"
+      },
+      {
+        "name": "Decrease the quest open gold",
+        "value": "8.5",
+        "value_increment": "0.81"
+      }
+    ],
+    "stars": "5 Stars",
+    "is_set": true,
+    "set_name": "Sea Dragon's Arms",
+    "item_name": "Sea Dragon's Scale",
+    "source": "HonorChest",
+    "materials": [
+      "Crown",
+      "Hammer"
+    ]
+  },
+  {
+    "attributes": [
+      {
+        "name": "Increase the health of Human and Elf",
+        "value": "34",
+        "value_increment": "3.24"
+      },
+      {
+        "name": "Increase the quest gold acquisition",
+        "value": "55",
+        "value_increment": "4.7"
+      }
+    ],
+    "stars": "5 Stars",
+    "is_set": true,
+    "set_name": "Sea Dragon's Arms",
+    "item_name": "Sea Dragon's Horn",
+    "source": "HonorChest",
+    "materials": [
+      "Plant",
+      "Spear"
+    ]
+  },
+  {
+    "attributes": [
+      {
+        "name": "Increase the attack power of Human and Elf",
+        "value": "8.5",
+        "value_increment": "0.81"
+      },
+      {
+        "name": "Increase the critical damage of Human and Elf",
+        "value": "8.5",
+        "value_increment": "0.81"
+      }
+    ],
+    "stars": "5 Stars",
+    "is_set": true,
+    "set_name": "Sea Dragon's Arms",
+    "item_name": "Sea Dragon's Claw",
+    "source": "MatShop",
+    "materials": [
+      "Hammer",
+      "Spear"
+    ]
+  },
+  {
+    "attributes": [
+      {
+        "name": "Increase the health of Undead and Orc",
+        "value": "34",
+        "value_increment": "3.24"
+      },
+      {
+        "name": "Reduce the quest time",
+        "value": "2",
+        "value_increment": "0.05"
+      }
+    ],
+    "stars": "5 Stars",
+    "is_set": true,
+    "set_name": "Dark Knight's Arms",
+    "item_name": "Dark Knight's Bracelet",
+    "source": "HonorChest",
+    "materials": [
+      "Crown",
+      "Plant"
+    ]
+  },
+  {
+    "attributes": [
+      {
+        "name": "Increase the attack power of Undead and Orc",
+        "value": "8.5",
+        "value_increment": "0.81"
+      },
+      {
+        "name": "Decrease the quest upgrade cost",
+        "value": "6.5",
+        "value_increment": "0.5"
+      }
+    ],
+    "stars": "5 Stars",
+    "is_set": true,
+    "set_name": "Dark Knight's Arms",
+    "item_name": "Dark Knight's Cloak",
+    "source": "HonorChest",
+    "materials": [
+      "Horn",
+      "Plant"
+    ]
+  },
+  {
+    "attributes": [
+      {
+        "name": "Decrease the time for Undead and Orc revival",
+        "value": "0.2025",
+        "value_increment": "0.0025"
+      },
+      {
+        "name": "Decrease the unit upgrade cost",
+        "value": "6.5",
+        "value_increment": "0.5"
+      }
+    ],
+    "stars": "5 Stars",
+    "is_set": true,
+    "set_name": "Dark Knight's Arms",
+    "item_name": "Dark Knight's Boots",
+    "source": "HonorChest",
+    "materials": [
+      "Hammer",
+      "Plant"
+    ]
+  },
+  {
+    "attributes": [
+      {
+        "name": "Increase the defense power of Undead and Orc",
+        "value": "9",
+        "value_increment": "0.48"
+      },
+      {
+        "name": "Decrease the quest open gold",
+        "value": "8.5",
+        "value_increment": "0.81"
+      }
+    ],
+    "stars": "5 Stars",
+    "is_set": true,
+    "set_name": "Dark Knight's Arms",
+    "item_name": "Dark Knight's Armor",
+    "source": "HonorChest",
+    "materials": [
+      "Horn",
+      "Hammer"
+    ]
+  },
+  {
+    "attributes": [
+      {
+        "name": "Increase the health of Undead and Orc",
+        "value": "34",
+        "value_increment": "3.24"
+      },
+      {
+        "name": "Increase the quest gold acquisition",
+        "value": "55",
+        "value_increment": "4.7"
+      }
+    ],
+    "stars": "5 Stars",
+    "is_set": true,
+    "set_name": "Dark Knight's Arms",
+    "item_name": "Dark Knight's Helmet",
+    "source": "HonorChest",
+    "materials": [
+      "Crown",
+      "Spear"
+    ]
+  },
+  {
+    "attributes": [
+      {
+        "name": "Increase the attack power of Undead and Orc",
+        "value": "8.5",
+        "value_increment": "0.81"
+      },
+      {
+        "name": "Increase the critical damage of Undead and Orc",
+        "value": "8.5",
+        "value_increment": "0.81"
+      }
+    ],
+    "stars": "5 Stars",
+    "is_set": true,
+    "set_name": "Dark Knight's Arms",
+    "item_name": "Dark Knight's Sword",
+    "source": "MatShop",
+    "materials": [
+      "Crown",
+      "Spear"
+    ]
+  },
+  {
+    "attributes": [
+      {
+        "name": "Decrease the battle engaging time for Elf",
+        "value": "0.1525",
+        "value_increment": "0.0025"
+      },
+      {
+        "name": "Decrease the unit upgrade cost",
+        "value": "6.5",
+        "value_increment": "0.5"
+      }
+    ],
+    "stars": "5 Stars",
+    "is_set": true,
+    "set_name": "Ancient High Priest's Garment",
+    "item_name": "Ancient High Priest's Shoes",
+    "source": "HonorChest",
+    "materials": [
+      "Horn",
+      "Spear"
+    ]
+  },
+  {
+    "attributes": [
+      {
+        "name": "Increase the health of Elf",
+        "value": "34",
+        "value_increment": "3.24"
+      },
+      {
+        "name": "Decrease the quest open gold",
+        "value": "8.5",
+        "value_increment": "0.81"
+      }
+    ],
+    "stars": "5 Stars",
+    "is_set": true,
+    "set_name": "Ancient High Priest's Garment",
+    "item_name": "Ancient High Priest's Robe",
+    "source": "HonorChest",
+    "materials": [
+      "Crown",
+      "Hammer"
+    ]
+  },
+  {
+    "attributes": [
+      {
+        "name": "Increase the defense power of Elf",
+        "value": "12.75",
+        "value_increment": "1.215"
+      },
+      {
+        "name": "Increase the quest gold acquisition",
+        "value": "55",
+        "value_increment": "4.7"
+      }
+    ],
+    "stars": "5 Stars",
+    "is_set": true,
+    "set_name": "Ancient High Priest's Garment",
+    "item_name": "Ancient High Priest's Mask",
+    "source": "HonorChest",
+    "materials": [
+      "Plant",
+      "Spear"
+    ]
+  },
+  {
+    "attributes": [
+      {
+        "name": "Increase the attack power of Elf",
+        "value": "8.5",
+        "value_increment": "0.81"
+      },
+      {
+        "name": "Increase the critical damage of Elf",
+        "value": "6",
+        "value_increment": "0.32"
+      }
+    ],
+    "stars": "5 Stars",
+    "is_set": true,
+    "set_name": "Ancient High Priest's Garment",
+    "item_name": "Ancient High Priest's Staff",
+    "source": "HonorChest",
+    "materials": [
+      "Hammer",
+      "Spear"
+    ]
+  },
+  {
+    "attributes": [
+      {
+        "name": "Decrease the battle engaging time for Human",
+        "value": "0.1525",
+        "value_increment": "0.0025"
+      },
+      {
+        "name": "Decrease the quest upgrade cost",
+        "value": "6.5",
+        "value_increment": "0.5"
+      }
+    ],
+    "stars": "5 Stars",
+    "is_set": true,
+    "set_name": "Necromancer's Spirit",
+    "item_name": "Necromancer's Boots",
+    "source": "HonorChest",
+    "materials": [
+      "Crown",
+      "Plant"
+    ]
+  },
+  {
+    "attributes": [
+      {
+        "name": "Increase the health of Human",
+        "value": "34",
+        "value_increment": "3.24"
+      },
+      {
+        "name": "Decrease the quest open gold",
+        "value": "8.5",
+        "value_increment": "0.81"
+      }
+    ],
+    "stars": "5 Stars",
+    "is_set": true,
+    "set_name": "Necromancer's Spirit",
+    "item_name": "Necromancer's Armor",
+    "source": "MatShop",
+    "materials": [
+      "Horn",
+      "Plant"
+    ]
+  },
+  {
+    "attributes": [
+      {
+        "name": "Increase the defense power of Human",
+        "value": "12.75",
+        "value_increment": "1.215"
+      },
+      {
+        "name": "Increase the quest gold acquisition",
+        "value": "55",
+        "value_increment": "4.7"
+      }
+    ],
+    "stars": "5 Stars",
+    "is_set": true,
+    "set_name": "Necromancer's Spirit",
+    "item_name": "Necromancer's Helmet",
+    "source": "HonorChest",
+    "materials": [
+      "Hammer",
+      "Plant"
+    ]
+  },
+  {
+    "attributes": [
+      {
+        "name": "Increase the attack power of Human",
+        "value": "8.5",
+        "value_increment": "0.81"
+      },
+      {
+        "name": "Increase the critical damage of Human",
+        "value": "6",
+        "value_increment": "0.32"
+      }
+    ],
+    "stars": "5 Stars",
+    "is_set": true,
+    "set_name": "Necromancer's Spirit",
+    "item_name": "Necromancer's Staff",
+    "source": "HonorChest",
+    "materials": [
+      "Horn",
+      "Hammer"
+    ]
+  },
+  {
+    "attributes": [
+      {
+        "name": "Decrease the time for Orc revival",
+        "value": "0.2025",
+        "value_increment": "0.0025"
+      },
+      {
+        "name": "Reduce the quest time",
+        "value": "2",
+        "value_increment": "0.05"
+      }
+    ],
+    "stars": "5 Stars",
+    "is_set": true,
+    "set_name": "Ghost of Snow Mountain's Battle Uniform",
+    "item_name": "Boots of the Ghost of Snow Mountain",
+    "source": "HonorChest",
+    "materials": [
+      "Crown",
+      "Spear"
+    ]
+  },
+  {
+    "attributes": [
+      {
+        "name": "Increase the defense power of Orc",
+        "value": "12.75",
+        "value_increment": "1.215"
+      },
+      {
+        "name": "Decrease the unit upgrade cost",
+        "value": "6.5",
+        "value_increment": "0.5"
+      }
+    ],
+    "stars": "5 Stars",
+    "is_set": true,
+    "set_name": "Ghost of Snow Mountain's Battle Uniform",
+    "item_name": "Armor of the Ghost of Snow Mountain",
+    "source": "HonorChest",
+    "materials": [
+      "Crown",
+      "Horn"
+    ]
+  },
+  {
+    "attributes": [
+      {
+        "name": "Increase the health of Orc",
+        "value": "34",
+        "value_increment": "3.24"
+      },
+      {
+        "name": "Decrease the quest open gold",
+        "value": "8.5",
+        "value_increment": "0.81"
+      }
+    ],
+    "stars": "5 Stars",
+    "is_set": true,
+    "set_name": "Ghost of Snow Mountain's Battle Uniform",
+    "item_name": "Helmet of the Ghost of Snow Mountain",
+    "source": "HonorChest",
+    "materials": [
+      "Horn",
+      "Spear"
+    ]
+  },
+  {
+    "attributes": [
+      {
+        "name": "Decrease the time for Undead revival",
+        "value": "0.2025",
+        "value_increment": "0.0025"
+      },
+      {
+        "name": "Reduce the quest time",
+        "value": "2",
+        "value_increment": "0.05"
+      }
+    ],
+    "stars": "5 Stars",
+    "is_set": true,
+    "set_name": "Bone Wyvern's Arms",
+    "item_name": "Bone Wyvern's Boots",
+    "source": "HonorChest",
+    "materials": [
+      "Crown",
+      "Hammer"
+    ]
+  },
+  {
+    "attributes": [
+      {
+        "name": "Increase the defense power of Undead",
+        "value": "12.75",
+        "value_increment": "1.215"
+      },
+      {
+        "name": "Decrease the unit upgrade cost",
+        "value": "6.5",
+        "value_increment": "0.5"
+      }
+    ],
+    "stars": "5 Stars",
+    "is_set": true,
+    "set_name": "Bone Wyvern's Arms",
+    "item_name": "Bone Wyvern's Armor",
+    "source": "HonorChest",
+    "materials": [
+      "Plant",
+      "Spear"
+    ]
+  },
+  {
+    "attributes": [
+      {
+        "name": "Increase the health of Undead",
+        "value": "34",
+        "value_increment": "3.24"
+      },
+      {
+        "name": "Increase the quest gold acquisition",
+        "value": "55",
+        "value_increment": "4.7"
+      }
+    ],
+    "stars": "5 Stars",
+    "is_set": true,
+    "set_name": "Bone Wyvern's Arms",
+    "item_name": "Bone Wyvern's Helmet",
+    "source": "MatShop",
+    "materials": [
+      "Hammer",
+      "Spear"
+    ]
+  },
+  {
+    "attributes": [
+      {
+        "name": "Increase the health of ranged units",
+        "value": "26",
+        "value_increment": ""
+      },
+      {
+        "name": "Increase the defense power of ranged units",
+        "value": "9.75",
+        "value_increment": ""
+      }
+    ],
+    "stars": "5 Stars",
+    "is_set": true,
+    "set_name": "Oath of Heaven",
+    "item_name": "Heaven's Earrings",
+    "source": "HonorChest",
+    "materials": [
+      "Crown",
+      "Plant"
+    ]
+  },
+  {
+    "attributes": [
+      {
+        "name": "Increase the health of melee unit",
+        "value": "26",
+        "value_increment": ""
+      },
+      {
+        "name": "Increase the defense power of melee unit",
+        "value": "9.75",
+        "value_increment": ""
+      }
+    ],
+    "stars": "5 Stars",
+    "is_set": true,
+    "set_name": "Oath of Heaven",
+    "item_name": "Heaven's Necklace",
+    "source": "MatShop",
+    "materials": [
+      "Horn",
+      "Plant"
+    ]
+  },
+  {
+    "attributes": [
+      {
+        "name": "Increase the attack power of Undead",
+        "value": "8.5",
+        "value_increment": ""
+      },
+      {
+        "name": "Increase the critical damage of Undead",
+        "value": "6",
+        "value_increment": ""
+      }
+    ],
+    "stars": "5 Stars",
+    "is_set": true,
+    "set_name": "Sword of Spirit of Dark and Light",
+    "item_name": "Blazing Sword of Light",
+    "source": "HonorChest",
+    "materials": [
+      "Hammer",
+      "Plant"
+    ]
+  },
+  {
+    "attributes": [
+      {
+        "name": "Increase the attack power of Orc",
+        "value": "8.5",
+        "value_increment": "0.81"
+      },
+      {
+        "name": "Increase the critical damage of Orc",
+        "value": "6",
+        "value_increment": ""
+      }
+    ],
+    "stars": "5 Stars",
+    "is_set": true,
+    "set_name": "Sword of Spirit of Dark and Light",
+    "item_name": "Frosting Sword of Dark",
+    "source": "HonorChest",
+    "materials": [
+      "Horn",
+      "Hammer"
+    ]
+  },
+  {
+    "attributes": [
+      {
+        "name": "Decrease the health of a dungeon general unit",
+        "value": "0.1525",
+        "value_increment": "0.0025"
+      },
+      {
+        "name": "Reduce the quest time",
+        "value": "2",
+        "value_increment": "0.05"
+      }
+    ],
+    "stars": "5 Stars",
+    "is_set": true,
+    "set_name": "Great General's Arms",
+    "item_name": "Great General's Cloak",
+    "source": "MatShop",
+    "materials": [
+      "Crown",
+      "Spear"
+    ]
+  },
+  {
+    "attributes": [
+      {
+        "name": "Increase the critical strike rate of all units",
+        "value": "0.132",
+        "value_increment": "0.003"
+      },
+      {
+        "name": "Increase the attack power of ranged units",
+        "value": "6.5",
+        "value_increment": "0.5"
+      }
+    ],
+    "stars": "5 Stars",
+    "is_set": true,
+    "set_name": "Great General's Arms",
+    "item_name": "Great General's Enhanced AlloyGreatsword",
+    "source": "MatShop",
+    "materials": [
+      "Plant",
+      "Spear"
+    ]
+  },
+  {
+    "attributes": [
+      {
+        "name": "Increase the attack power of all units",
+        "value": "6",
+        "value_increment": "0.32"
+      },
+      {
+        "name": "Decrease the quest open gold",
+        "value": "8.5",
+        "value_increment": "0.81"
+      }
+    ],
+    "stars": "5 Stars",
+    "is_set": true,
+    "set_name": "Great General's Arms",
+    "item_name": "Great General's Enhanced AlloyHammer",
+    "source": "MatShop",
+    "materials": [
+      "Hammer",
+      "Spear"
+    ]
+  },
+  {
+    "attributes": [
+      {
+        "name": "Reduce the units' battle engaging time of all units",
+        "value": "0.1525",
+        "value_increment": "0.0025"
+      },
+      {
+        "name": "Decrease the health of a dungeon boss",
+        "value": "0.1525",
+        "value_increment": "0.0025"
+      }
+    ],
+    "stars": "5 Stars",
+    "is_set": true,
+    "set_name": "Master's Lion Hide",
+    "item_name": "Master's Lion Hide Boots",
+    "source": "MatShop",
+    "materials": [
+      "Crown",
+      "Horn"
+    ]
+  },
+  {
+    "attributes": [
+      {
+        "name": "Increase the health of a friendly tower",
+        "value": "8.3",
+        "value_increment": ""
+      },
+      {
+        "name": "Increase the attack power of melee units",
+        "value": "6.5",
+        "value_increment": ""
+      }
+    ],
+    "stars": "5 Stars",
+    "is_set": true,
+    "set_name": "Master's Lion Hide",
+    "item_name": "Master's Lion Hide Armor",
+    "source": "MatShop",
+    "materials": [
+      "Crown",
+      "Plant"
+    ]
+  },
+  {
+    "attributes": [
+      {
+        "name": "Decrease the time for revival of all units",
+        "value": "0.2025",
+        "value_increment": "0.0025"
+      },
+      {
+        "name": "Decrease the unit upgrade cost",
+        "value": "6.5",
+        "value_increment": "0.5"
+      }
+    ],
+    "stars": "5 Stars",
+    "is_set": true,
+    "set_name": "Temple Battlemage's Weapon",
+    "item_name": "Temple Battlemage's Shoes",
+    "source": "MatShop",
+    "materials": [
+      "Horn",
+      "Spear"
+    ]
+  },
+  {
+    "attributes": [
+      {
+        "name": "Increase the defense power of all units",
+        "value": "9",
+        "value_increment": "0.48"
+      },
+      {
+        "name": "Decrease the quest upgrade cost",
+        "value": "6.5",
+        "value_increment": "0.5"
+      }
+    ],
+    "stars": "5 Stars",
+    "is_set": true,
+    "set_name": "Temple Battlemage's Weapon",
+    "item_name": "Temple Battlemage's Hat",
+    "source": "MatShop",
+    "materials": [
+      "Crown",
+      "Hammer"
+    ]
+  },
+  {
+    "attributes": [
+      {
+        "name": "Increase the health of all units",
+        "value": "24",
+        "value_increment": "1.28"
+      },
+      {
+        "name": "Increase the quest gold acquisition",
+        "value": "55",
+        "value_increment": "4.7"
+      }
+    ],
+    "stars": "5 Stars",
+    "is_set": true,
+    "set_name": "Temple Battlemage's Weapon",
+    "item_name": "Temple Battlemage's Tunic",
+    "source": "MatShop",
+    "materials": [
+      "Horn",
+      "Plant"
+    ]
+  },
+  {
+    "attributes": [
+      {
+        "name": "Decrease the health of a dungeon general unit",
+        "value": "0.1025",
+        "value_increment": "0.0025"
+      },
+      {
+        "name": "Reduce the quest time",
+        "value": "1.2",
+        "value_increment": "0.04"
+      }
+    ],
+    "stars": "4 Stars",
+    "is_set": true,
+    "set_name": "",
+    "item_name": "Royalty's Cloak",
+    "source": "",
+    "materials": [
+      "Crown",
+      "Spear"
+    ]
+  },
+  {
+    "attributes": [
+      {
+        "name": "Reduce the Human, Elf units' battle engaging time",
+        "value": "0.1025",
+        "value_increment": "0.0025"
+      },
+      {
+        "name": "Decrease the health of a dungeon boss",
+        "value": "0.1025",
+        "value_increment": "0.0025"
+      }
+    ],
+    "stars": "4 Stars",
+    "is_set": true,
+    "set_name": "Reinforced Brown Bear Hide",
+    "item_name": "Reinforced Bear Hide Boots",
+    "source": "",
+    "materials": [
+      "Crown",
+      "Horn"
+    ]
+  },
+  {
+    "attributes": [
+      {
+        "name": "Increase the health of a friendly tower",
+        "value": "6.2",
+        "value_increment": ""
+      },
+      {
+        "name": "Increase the attack power of melee units",
+        "value": "2.8",
+        "value_increment": ""
+      }
+    ],
+    "stars": "4 Stars",
+    "is_set": true,
+    "set_name": "Reinforced Brown Bear Hide",
+    "item_name": "Reinforced Bear Hide Armor",
+    "source": "",
+    "materials": [
+      "Crown",
+      "Plant"
+    ]
+  },
+  {
+    "attributes": [
+      {
+        "name": "Decrease the time for Undead and Human revival",
+        "value": "0.1525",
+        "value_increment": "0.0025"
+      },
+      {
+        "name": "Decrease the unit upgrade cost",
+        "value": "2.8",
+        "value_increment": ""
+      }
+    ],
+    "stars": "4 Stars",
+    "is_set": true,
+    "set_name": "Warlock's Garment",
+    "item_name": "Warlock's Shoes",
+    "source": "",
+    "materials": [
+      "Horn",
+      "Spear"
+    ]
+  },
+  {
+    "attributes": [
+      {
+        "name": "Increase the defense power of Orc and Undead",
+        "value": "5.25",
+        "value_increment": "0.405"
+      },
+      {
+        "name": "Decrease the quest upgrade cost",
+        "value": "2.8",
+        "value_increment": "0.2"
+      }
+    ],
+    "stars": "4 Stars",
+    "is_set": true,
+    "set_name": "Warlock's Garment",
+    "item_name": "Warlock's Hat",
+    "source": "",
+    "materials": [
+      "Crown",
+      "Hammer"
+    ]
+  },
+  {
+    "attributes": [
+      {
+        "name": "Increase the health of Elf and Orc",
+        "value": "14",
+        "value_increment": "1.08"
+      },
+      {
+        "name": "Increase the quest gold acquisition",
+        "value": "20",
+        "value_increment": "1.88"
+      }
+    ],
+    "stars": "4 Stars",
+    "is_set": true,
+    "set_name": "Warlock's Garment",
+    "item_name": "Warlock's Robe",
+    "source": "",
+    "materials": [
+      "Horn",
+      "Plant"
+    ]
+  },
+  {
+    "attributes": [
+      {
+        "name": "Increase the critical strike rate of Human and Elf",
+        "value": "0.15",
+        "value_increment": "0.004"
+      },
+      {
+        "name": "Increase the attack power of ranged units",
+        "value": "2.8",
+        "value_increment": "0.2"
+      }
+    ],
+    "stars": "4 Stars",
+    "is_set": true,
+    "set_name": "Royal Guard's Weapon",
+    "item_name": "Imperial Captain's Alloy Greatsword",
+    "source": "",
+    "materials": [
+      "Plant",
+      "Spear"
+    ]
+  },
+  {
+    "attributes": [
+      {
+        "name": "Increase the attack power of Human and Elf",
+        "value": "3.5",
+        "value_increment": "0.27"
+      },
+      {
+        "name": "Decrease the quest open gold",
+        "value": "3.5",
+        "value_increment": "0.27"
+      }
+    ],
+    "stars": "4 Stars",
+    "is_set": true,
+    "set_name": "Royal Guard's Weapon",
+    "item_name": "Knight of Royal Guard's Alloy Hammer",
+    "source": "",
+    "materials": [
+      "Hammer",
+      "Spear"
+    ]
+  }
+]

@@ -10,10 +10,10 @@
     android:paddingTop="@dimen/activity_vertical_margin"
     tools:context="com.endlessfrontier.alexanderageychenko.endlessfrontierartifacts.MainActivity">
 
-    <android.support.v7.widget.RecyclerView
-        android:id="@+id/artifacts_list"
+    <FrameLayout
+        android:id="@+id/homeFragmentFrame"
         android:layout_width="match_parent"
-        android:layout_height="wrap_content">
-
-    </android.support.v7.widget.RecyclerView>
+        android:layout_height="match_parent"
+        android:layout_gravity="center_horizontal"
+        android:background="@android:color/white"/>
 </RelativeLayout>
