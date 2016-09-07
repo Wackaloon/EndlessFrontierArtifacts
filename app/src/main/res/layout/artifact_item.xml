@@ -1,81 +1,102 @@
 <?xml version="1.0" encoding="utf-8"?>
-<RelativeLayout
-    xmlns:android="http://schemas.android.com/apk/res/android"
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
     android:layout_width="match_parent"
-    android:layout_height="wrap_content">
+    android:layout_height="wrap_content"
+    android:background="@color/light_grey">
+
     <ImageView
         android:id="@+id/image"
-        android:layout_width="100dp"
-        android:layout_height="100dp"
-        android:background="@color/cardview_dark_background"/>
+        android:layout_width="@dimen/design_dp_50"
+        android:layout_height="@dimen/design_dp_50"
+        android:layout_marginLeft="@dimen/design_dp_16"
+        android:layout_marginTop="@dimen/design_dp_16"
+        android:background="@color/cardview_dark_background" />
+
+    <TextView
+        android:id="@+id/stars"
+        android:layout_width="@dimen/design_dp_50"
+        android:layout_height="wrap_content"
+        android:layout_below="@+id/image"
+        android:layout_marginLeft="@dimen/design_dp_16"
+        android:layout_marginTop="@dimen/design_dp_8"
+        android:gravity="center"
+        android:text="STARS"
+        android:textSize="@dimen/main_font_size" />
 
     <LinearLayout
-        android:layout_width="wrap_content"
+        android:id="@+id/info"
+        android:layout_width="match_parent"
         android:layout_height="wrap_content"
-        android:orientation="vertical"
+        android:layout_marginBottom="@dimen/design_dp_8"
+        android:layout_marginLeft="@dimen/design_dp_8"
+        android:layout_marginTop="@dimen/design_dp_16"
         android:layout_toRightOf="@+id/image"
-        android:background="@android:color/holo_green_dark"
-        android:padding="15dp">
-    <TextView
-        android:id="@+id/name"
-        android:layout_width="wrap_content"
-        android:layout_height="wrap_content"
-        android:padding="10dp"
-        android:text="NAME"/>
-
-    <LinearLayout
-        android:layout_width="wrap_content"
-        android:layout_height="wrap_content"
-        android:orientation="horizontal">
-
-
+        android:orientation="vertical">
 
         <TextView
-            android:id="@+id/stars"
+            android:id="@+id/name"
             android:layout_width="wrap_content"
             android:layout_height="wrap_content"
-            android:padding="10dp"
-            android:text="STARS"/>
+            android:layout_marginBottom="@dimen/design_dp_8"
+            android:text="NAME"
+            android:textSize="@dimen/main_font_size"
+            android:textStyle="bold" />
+
+        <LinearLayout
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:orientation="horizontal">
+
+
+            <TextView
+                android:id="@+id/source"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:text="SOURCE"
+                android:textSize="@dimen/main_font_size" />
+        </LinearLayout>
+
         <TextView
-            android:id="@+id/source"
+            android:id="@+id/param1"
             android:layout_width="wrap_content"
             android:layout_height="wrap_content"
-            android:padding="10dp"
-            android:text="SOURCE"/>
+            android:text="PARAM 1"
+            android:textSize="@dimen/main_font_size" />
+
+        <TextView
+            android:id="@+id/param2"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="PARAM 2"
+            android:textSize="@dimen/main_font_size" />
+
+        <LinearLayout
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:orientation="horizontal">
+
+            <TextView
+                android:id="@+id/material1"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:text="MAT 1"
+                android:textSize="@dimen/main_font_size" />
+
+            <TextView
+                android:id="@+id/material12"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_marginLeft="@dimen/design_dp_8"
+                android:text="MAT 2"
+                android:textSize="@dimen/main_font_size" />
+        </LinearLayout>
+
     </LinearLayout>
 
-    <TextView
-        android:id="@+id/param1"
-        android:layout_width="wrap_content"
-        android:layout_height="wrap_content"
-        android:padding="10dp"
-        android:text="PARAM 1"/>
-
-    <TextView
-        android:id="@+id/param2"
-        android:layout_width="wrap_content"
-        android:layout_height="wrap_content"
-        android:padding="10dp"
-        android:text="PARAM 2"/>
-    <LinearLayout
-        android:layout_width="wrap_content"
-        android:layout_height="wrap_content"
-        android:orientation="horizontal">
-
-        <TextView
-            android:id="@+id/material1"
-            android:layout_width="wrap_content"
-            android:layout_height="wrap_content"
-            android:padding="10dp"
-            android:text="MAT 1"/>
-
-        <TextView
-            android:id="@+id/material12"
-            android:layout_width="wrap_content"
-            android:layout_height="wrap_content"
-            android:padding="10dp"
-            android:text="MAT 2"/>
-    </LinearLayout>
-
-    </LinearLayout>
+    <View
+        android:layout_width="match_parent"
+        android:layout_height="@dimen/design_dp_1"
+        android:layout_below="@+id/info"
+        android:layout_marginLeft="@dimen/design_dp_66"
+        android:background="@color/main_grey" />
 </RelativeLayout>

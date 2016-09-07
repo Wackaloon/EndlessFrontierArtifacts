@@ -16,6 +16,8 @@ import java.io.StringWriter;
 import java.io.Writer;
 import java.util.ArrayList;
 import java.util.Arrays;
+import java.util.Collections;
+import java.util.Comparator;
 
 /**
  * Created by alexanderageychenko on 9/7/16.
@@ -26,16 +28,24 @@ public class Depository {
     private ArrayList<Artifact> artifactsList = new ArrayList<>();
     private ArrayList<Sets> setsList = new ArrayList<>();
 
-    public static void init(Context context){
+    public static void init(Context context) {
         instance = new Depository(context);
     }
-    public static Depository getInstance(){
+
+    public static Depository getInstance() {
         return instance;
     }
+
     public Depository(Context context) {
         try {
-        this.artifactsList = getArtifactsList(context);
+            this.artifactsList = getArtifactsList(context);
             this.setsList = getSetsList(context);
+            Collections.sort(this.artifactsList, new Comparator<Artifact>() {
+                @Override
+                public int compare(Artifact lhs, Artifact rhs) {
+                    return lhs.set_name.compareTo(rhs.set_name);
+                }
+            });
         } catch (IOException e) {
             e.printStackTrace();
         }

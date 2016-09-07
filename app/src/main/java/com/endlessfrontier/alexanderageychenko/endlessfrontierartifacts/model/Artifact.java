@@ -21,7 +21,7 @@ public class Artifact {
         public  String value_increment;
 
         public String getFullName(){
-            return name + ": " + value;
+            return name + ": " + Double.parseDouble(value.replace(",","."))*100 + "%";
         }
     }
 }
